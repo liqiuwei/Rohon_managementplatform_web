@@ -1,0 +1,2 @@
+INFO     test_logs:test_a8_the_customer_account.py:83 开始测试期货品种默认保证金率配置成功用例
+INFO     test_logs:test_a8_the_customer_account.py:90 测试用例通过

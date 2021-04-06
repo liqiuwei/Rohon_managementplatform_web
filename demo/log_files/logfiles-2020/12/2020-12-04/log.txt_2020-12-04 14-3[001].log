@@ -1,0 +1,81 @@
+[2020-12-04 14:32:26 856 aaf0] <app>version: 5.33.72.8
+[2020-12-04 14:32:26 856 aaf0] orderfee: 1.00
+[2020-12-04 14:32:26 856 aaf0] <app><tradeDir>: C:\Users\李秋维\Desktop\5.33.72.8\5.33.72.8.0\trader\FUT_RHA
+[2020-12-04 14:32:27 427 aaf0] Thread(MP_TimerThread(Rohon_TimerManager))[0x863c] create by thread[0xaaf0] suspend
+[2020-12-04 14:32:27 427 aaf0] <app><TraderDllType>[1699][version:5]
+[2020-12-04 14:32:27 427 863c] [0x0159ebe0]create THREAD[863c:35312](MP_TimerThread(Rohon_TimerManager))
+[2020-12-04 14:32:27 427 863c] THREAD[0x863c:35312](MP_TimerThread(Rohon_TimerManager)) runing
+[2020-12-04 14:32:27 445 aaf0] <app><MDDllType>[1788][version:5]
+[2020-12-04 14:32:27 504 aaf0] Thread(CheckUpdateThread)[0x2458] create by thread[0xaaf0] suspend
+[2020-12-04 14:32:27 504 2458] [0x015a3510]create THREAD[2458:35312](CheckUpdateThread)
+[2020-12-04 14:32:27 504 2458] THREAD[0x2458:35312](CheckUpdateThread) runing
+[2020-12-04 14:32:27 504 aaf0] Thread(SockTranferWorkThread)[0x72d4] create by thread[0xaaf0] suspend
+[2020-12-04 14:32:27 504 aaf0] Thread(SockConnectWorkThread)[0x3f08] create by thread[0xaaf0] suspend
+[2020-12-04 14:32:27 505 72d4] [0x015a4c30]create THREAD[72d4:35312](SockTranferWorkThread)
+[2020-12-04 14:32:27 505 72d4] THREAD[0x72d4:35312](SockTranferWorkThread) runing
+[2020-12-04 14:32:27 505 3f08] [0x015a4b20]create THREAD[3f08:35312](SockConnectWorkThread)
+[2020-12-04 14:32:27 505 3f08] THREAD[0x3f08:35312](SockConnectWorkThread) runing
+[2020-12-04 14:32:27 841 aaf0] <debug>init loginDlg over
+[2020-12-04 14:32:35 016 2458] <error>Connect server[-210.22.96.59] fail!
+[2020-12-04 14:32:35 016 2458] <error>Fail to get the update server info.
+[2020-12-04 14:32:35 117 2458] thread[2458](CheckUpdateThread) WaitFor self.
+[2020-12-04 14:32:35 117 2458] THREAD[0x2458:35312](CheckUpdateThread) exit.
+[2020-12-04 14:32:36 914 9ab8] [警告] !!!!!!!线程[0x00002458:CheckUpdateThread] 9 秒无响应,状态：运行 !!!!!!!
+[2020-12-04 14:32:43 986 aaf0] ~CLoginDlg
+[2020-12-04 14:32:43 987 aaf0] ExitInstance()!
+[2020-12-04 14:32:43 987 aaf0] Release preload!
+[2020-12-04 14:32:43 987 aaf0] Release TradeApi!
+[2020-12-04 14:32:43 987 aaf0] Release MDAPI!
+[2020-12-04 14:32:43 987 aaf0] Release DB!
+[2020-12-04 14:32:43 987 aaf0] Release Ar DB!
+[2020-12-04 14:32:43 987 aaf0] Release TraderConfig!
+[2020-12-04 14:32:43 987 aaf0] Release Public!
+[2020-12-04 14:32:43 987 aaf0] Release DefaultFont!
+[2020-12-04 14:32:43 987 aaf0] Release Log!
+[2020-12-04 14:34:46 764 5674] <app>version: 5.33.72.8
+[2020-12-04 14:34:46 764 5674] orderfee: 1.00
+[2020-12-04 14:34:46 764 5674] <app><tradeDir>: C:\Users\李秋维\Desktop\5.33.72.8\5.33.72.8.0\trader\FUT_RHA
+[2020-12-04 14:34:47 333 5674] Thread(MP_TimerThread(Rohon_TimerManager))[0x9cc4] create by thread[0x5674] suspend
+[2020-12-04 14:34:47 334 5674] <app><TraderDllType>[1699][version:5]
+[2020-12-04 14:34:47 334 9cc4] [0x0151ead0]create THREAD[9cc4:36700](MP_TimerThread(Rohon_TimerManager))
+[2020-12-04 14:34:47 334 9cc4] THREAD[0x9cc4:36700](MP_TimerThread(Rohon_TimerManager)) runing
+[2020-12-04 14:34:47 335 5674] <app><MDDllType>[1788][version:5]
+[2020-12-04 14:34:47 379 5674] Thread(CheckUpdateThread)[0xa928] create by thread[0x5674] suspend
+[2020-12-04 14:34:47 379 a928] [0x01523420]create THREAD[a928:36700](CheckUpdateThread)
+[2020-12-04 14:34:47 379 a928] THREAD[0xa928:36700](CheckUpdateThread) runing
+[2020-12-04 14:34:47 379 5674] Thread(SockTranferWorkThread)[0x9a68] create by thread[0x5674] suspend
+[2020-12-04 14:34:47 379 5674] Thread(SockConnectWorkThread)[0xa144] create by thread[0x5674] suspend
+[2020-12-04 14:34:47 380 9a68] [0x01524b40]create THREAD[9a68:36700](SockTranferWorkThread)
+[2020-12-04 14:34:47 380 9a68] THREAD[0x9a68:36700](SockTranferWorkThread) runing
+[2020-12-04 14:34:47 380 a144] [0x01524a30]create THREAD[a144:36700](SockConnectWorkThread)
+[2020-12-04 14:34:47 380 a144] THREAD[0xa144:36700](SockConnectWorkThread) runing
+[2020-12-04 14:34:47 660 5674] <debug>init loginDlg over
+[2020-12-04 14:34:49 820 5674] LoginDlg - BnClickedLogin
+[2020-12-04 14:34:49 820 5674] style error !
+[2020-12-04 14:34:49 887 5674] <app><MdBrokerID>[Rohon]
+[2020-12-04 14:34:49 887 5674] On _Init one
+[2020-12-04 14:34:49 887 5674] Thread(RohonMarket)[0x7dfc] create by thread[0x5674] suspend
+[2020-12-04 14:34:49 887 5674] 成功分配第1个定时资源组(每组256个资源)
+[2020-12-04 14:34:49 887 7dfc] [0x01525310]create THREAD[7dfc:36700](RohonMarket)
+[2020-12-04 14:34:49 887 7dfc] THREAD[0x7dfc:36700](RohonMarket) runing
+[2020-12-04 14:34:49 888 5674] [CTP]MDRegisterSpi
+[2020-12-04 14:34:49 888 5674] [Init] [tcp://192.168.1.61:55555]
+[2020-12-04 14:34:49 888 5674] [CTP]MD Init
+[2020-12-04 14:34:49 888 5674] [CTP]MD Init completed!
+[2020-12-04 14:34:49 888 5674] <app><TradeBrokerID>[Rohon]
+[2020-12-04 14:34:49 888 5674] [version] RHTrader [5] [1699]
+[2020-12-04 14:34:51 901 9a68] [CTP]On MDFrontDisconnected
+[2020-12-04 14:34:52 505 5674] [Init] [tcp://192.168.1.61:40001]
+[2020-12-04 14:34:52 617 9a68] OnFrontConnected
+[2020-12-04 14:34:52 617 5674] [0x00000001] ReqUserLogin
+[2020-12-04 14:34:52 617 9a68] [RSPLOG][0x00000001] [] [] [0] [0] [ ]
+[2020-12-04 14:34:52 617 9a68] [0x00000001] <Error> OnRspUserLogin,ErrorCode[-1:登录失败,未找到该用户]
+[2020-12-04 14:34:56 839 a2f4] [警告] !!!!!!!线程[0x0000a928:CheckUpdateThread] 9 秒无响应,状态：运行 !!!!!!!
+[2020-12-04 14:34:56 949 9a68] [CTP]On MDFrontDisconnected
+[2020-12-04 14:34:57 387 a928] <error>Connect server[-210.22.96.59] fail!
+[2020-12-04 14:34:57 387 a928] <error>Fail to get the update server info.
+[2020-12-04 14:34:57 489 a928] thread[a928](CheckUpdateThread) WaitFor self.
+[2020-12-04 14:34:57 489 a928] THREAD[0xa928:36700](CheckUpdateThread) exit.
+[2020-12-04 14:35:01 980 9a68] [CTP]On MDFrontDisconnected
+[2020-12-04 14:35:06 919 a2f4] [警告] !!!!!!!线程[0x0000a928:CheckUpdateThread] 19 秒无响应,状态：运行 !!!!!!!
+[2020-12-04 14:35:07 062 9a68] [CTP]On MDFrontDisconnected

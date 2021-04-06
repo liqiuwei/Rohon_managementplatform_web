@@ -1,0 +1,2 @@
+2021-04-02 15:57:05,146--test_d7_configuration.py--hanghao:60--INFO:权限管理的用例通过
+2021-04-02 15:57:07,251--test_d7_configuration.py--hanghao:24--INFO:浏览器关闭

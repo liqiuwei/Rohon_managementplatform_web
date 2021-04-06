@@ -1,0 +1,2 @@
+INFO     test_logs:test_d3_template.py:16 打开浏览器
+INFO     test_logs:test_d3_template.py:35 行权记录的用例通过

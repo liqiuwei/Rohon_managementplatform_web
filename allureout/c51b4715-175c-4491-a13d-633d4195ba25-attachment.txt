@@ -1,0 +1,6 @@
+2021-04-02 15:42:19,628--test_a7_onekeyregister.py--hanghao:23--INFO:打开浏览器
+2021-04-02 15:42:29,846--test_a7_onekeyregister.py--hanghao:36--INFO:测试一键开户开户成功的用例
+2021-04-02 15:42:40,335--test_a7_onekeyregister.py--hanghao:46--INFO:预期结果:13413478722，实际结果:13413478722
+2021-04-02 15:42:40,335--test_a7_onekeyregister.py--hanghao:48--INFO:一键开户创建的账户是13413478722
+2021-04-02 15:42:40,335--test_a7_onekeyregister.py--hanghao:49--INFO:测试用例通过
+2021-04-02 15:42:42,442--test_a7_onekeyregister.py--hanghao:30--INFO:浏览器关闭

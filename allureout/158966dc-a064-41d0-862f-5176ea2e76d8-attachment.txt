@@ -1,0 +1,4 @@
+2021-04-02 15:45:26,359--test_b3_Auditpayment.py--hanghao:42--INFO:登录成功开始测试审核出入金成功得用例
+2021-04-02 15:45:29,825--test_b3_Auditpayment.py--hanghao:45--INFO:预期结果:出入金成功，实际结果:出入金成功
+2021-04-02 15:45:29,826--test_b3_Auditpayment.py--hanghao:47--INFO:出金审核通过
+2021-04-02 15:45:31,899--test_b3_Auditpayment.py--hanghao:26--INFO:浏览器关闭

@@ -1,0 +1,1 @@
+2021-04-02 15:54:44,633--test_d5_Riskcontrolprogram.py--hanghao:95--INFO:产品夜盘可交易品种/合约的用例通过

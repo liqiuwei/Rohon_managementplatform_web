@@ -1,0 +1,1 @@
+INFO     test_logs:test_d3_template.py:91 手续费优惠规则配置的用例通过

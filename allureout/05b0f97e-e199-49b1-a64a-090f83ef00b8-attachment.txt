@@ -1,0 +1,6 @@
+INFO     test_logs:test_e5_Varietiesofpermissions.py:51 开始测试品种开仓权限模板新增成功的用例
+ERROR    test_logs:seleniunm_packaging.py:23 你的操作没有进入None页面可能会引发异常'in <string>' requires string as left operand, not NoneType
+ERROR    test_logs:seleniunm_packaging.py:23 你的操作没有进入None页面可能会引发异常'in <string>' requires string as left operand, not NoneType
+ERROR    test_logs:seleniunm_packaging.py:23 你的操作没有进入None页面可能会引发异常'in <string>' requires string as left operand, not NoneType
+INFO     test_logs:test_e5_Varietiesofpermissions.py:62 测试品种开仓权限模板新增失败的用例通过
+INFO     test_logs:test_e5_Varietiesofpermissions.py:31 浏览器关闭

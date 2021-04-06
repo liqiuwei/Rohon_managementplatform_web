@@ -1,0 +1,3 @@
+2021-04-02 15:41:34,138--test_a5_addfundaccount.py--hanghao:36--INFO:开始测试新增资金账户失败的用例
+2021-04-02 15:41:35,429--test_a5_addfundaccount.py--hanghao:51--INFO:预期结果:请输入账户，实际结果:请输入账户
+2021-04-02 15:41:35,429--test_a5_addfundaccount.py--hanghao:53--INFO:第2条失败测试用例通过

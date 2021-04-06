@@ -1,0 +1,2 @@
+2021-04-02 15:43:34,775--test_a8_the_customer_account.py--hanghao:137--INFO:开始测试期货品种持仓限制配置成功用例
+2021-04-02 15:43:40,333--test_a8_the_customer_account.py--hanghao:143--INFO:测试用例通过

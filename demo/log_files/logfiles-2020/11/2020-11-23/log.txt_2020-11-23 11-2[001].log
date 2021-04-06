@@ -1,0 +1,73 @@
+[2020-11-23 11:26:48 900 42f0] <app>version: 5.31.70.7
+[2020-11-23 11:26:48 900 42f0] orderfee: 1.00
+[2020-11-23 11:26:48 900 42f0] <app><tradeDir>: C:\Users\李秋维\Desktop\客户端\5.31.70.7\trader\FUT_RHA
+[2020-11-23 11:26:50 121 42f0] Thread(MP_TimerThread(Rohon_TimerManager))[0x4284] create by thread[0x42f0] suspend
+[2020-11-23 11:26:50 121 42f0] <app><TraderDllType>[1699][version:5]
+[2020-11-23 11:26:50 121 4284] [0x0152ebc0]create THREAD[4284:7704](MP_TimerThread(Rohon_TimerManager))
+[2020-11-23 11:26:50 121 4284] THREAD[0x4284:7704](MP_TimerThread(Rohon_TimerManager)) runing
+[2020-11-23 11:26:50 124 42f0] <app><MDDllType>[1788][version:5]
+[2020-11-23 11:26:50 128 42f0] Thread(CheckUpdateThread)[0x30c0] create by thread[0x42f0] suspend
+[2020-11-23 11:26:50 128 30c0] [0x01533450]create THREAD[30c0:7704](CheckUpdateThread)
+[2020-11-23 11:26:50 128 30c0] THREAD[0x30c0:7704](CheckUpdateThread) runing
+[2020-11-23 11:26:50 128 42f0] Thread(SockTranferWorkThread)[0x42f4] create by thread[0x42f0] suspend
+[2020-11-23 11:26:50 128 42f0] Thread(SockConnectWorkThread)[0x33d8] create by thread[0x42f0] suspend
+[2020-11-23 11:26:50 128 42f4] [0x01534b70]create THREAD[42f4:7704](SockTranferWorkThread)
+[2020-11-23 11:26:50 128 42f4] THREAD[0x42f4:7704](SockTranferWorkThread) runing
+[2020-11-23 11:26:50 128 33d8] [0x01534a60]create THREAD[33d8:7704](SockConnectWorkThread)
+[2020-11-23 11:26:50 128 33d8] THREAD[0x33d8:7704](SockConnectWorkThread) runing
+[2020-11-23 11:26:50 273 42f0] <debug>init loginDlg over
+[2020-11-23 11:26:52 139 30c0] <error>Connect server[-210.22.96.59] fail!
+[2020-11-23 11:26:52 139 30c0] <error>Fail to get the update server info.
+[2020-11-23 11:26:52 239 30c0] thread[30c0](CheckUpdateThread) WaitFor self.
+[2020-11-23 11:26:52 239 30c0] THREAD[0x30c0:7704](CheckUpdateThread) exit.
+[2020-11-23 11:26:53 430 42f0] ~CLoginDlg
+[2020-11-23 11:26:53 430 42f0] ExitInstance()!
+[2020-11-23 11:26:53 430 42f0] Release preload!
+[2020-11-23 11:26:53 430 42f0] Release TradeApi!
+[2020-11-23 11:26:53 430 42f0] Release MDAPI!
+[2020-11-23 11:26:53 430 42f0] Release DB!
+[2020-11-23 11:26:53 430 42f0] Release Ar DB!
+[2020-11-23 11:26:53 430 42f0] Release TraderConfig!
+[2020-11-23 11:26:53 430 42f0] Release Public!
+[2020-11-23 11:26:53 430 42f0] Release DefaultFont!
+[2020-11-23 11:26:53 430 42f0] Release Log!
+[2020-11-23 11:27:26 245 39dc] <app>version: 5.31.70.7
+[2020-11-23 11:27:26 245 39dc] orderfee: 1.00
+[2020-11-23 11:27:26 245 39dc] <app><tradeDir>: C:\Users\李秋维\Desktop\客户端\5.31.70.7\trader\FUT_RHA
+[2020-11-23 11:27:26 544 39dc] Thread(MP_TimerThread(Rohon_TimerManager))[0x404c] create by thread[0x39dc] suspend
+[2020-11-23 11:27:26 545 39dc] <app><TraderDllType>[1699][version:5]
+[2020-11-23 11:27:26 545 404c] [0x0157ead0]create THREAD[404c:2588](MP_TimerThread(Rohon_TimerManager))
+[2020-11-23 11:27:26 545 404c] THREAD[0x404c:2588](MP_TimerThread(Rohon_TimerManager)) runing
+[2020-11-23 11:27:26 546 39dc] <app><MDDllType>[1788][version:5]
+[2020-11-23 11:27:26 574 39dc] Thread(CheckUpdateThread)[0x4048] create by thread[0x39dc] suspend
+[2020-11-23 11:27:26 574 4048] [0x01583420]create THREAD[4048:2588](CheckUpdateThread)
+[2020-11-23 11:27:26 574 4048] THREAD[0x4048:2588](CheckUpdateThread) runing
+[2020-11-23 11:27:26 574 39dc] Thread(SockTranferWorkThread)[0x3f68] create by thread[0x39dc] suspend
+[2020-11-23 11:27:26 574 39dc] Thread(SockConnectWorkThread)[0x518] create by thread[0x39dc] suspend
+[2020-11-23 11:27:26 575 3f68] [0x01584b40]create THREAD[3f68:2588](SockTranferWorkThread)
+[2020-11-23 11:27:26 575 3f68] THREAD[0x3f68:2588](SockTranferWorkThread) runing
+[2020-11-23 11:27:26 575 0518] [0x01584a30]create THREAD[518:2588](SockConnectWorkThread)
+[2020-11-23 11:27:26 575 0518] THREAD[0x518:2588](SockConnectWorkThread) runing
+[2020-11-23 11:27:26 625 39dc] <debug>init loginDlg over
+[2020-11-23 11:27:32 087 4048] <error>Connect server[-210.22.96.59] fail!
+[2020-11-23 11:27:32 087 4048] <error>Fail to get the update server info.
+[2020-11-23 11:27:32 188 4048] thread[4048](CheckUpdateThread) WaitFor self.
+[2020-11-23 11:27:32 188 4048] THREAD[0x4048:2588](CheckUpdateThread) exit.
+[2020-11-23 11:27:36 319 3c64] [警告] !!!!!!!线程[0x00004048:CheckUpdateThread] 10 秒无响应,状态：运行 !!!!!!!
+[2020-11-23 11:27:44 047 39dc] <app><tradeDir>: C:\Users\李秋维\Desktop\客户端\5.31.70.7\trader\FUT_RHA
+[2020-11-23 11:27:46 393 3c64] [警告] !!!!!!!线程[0x00004048:CheckUpdateThread] 20 秒无响应,状态：运行 !!!!!!!
+[2020-11-23 11:27:56 466 3c64] [警告] !!!!!!!线程[0x00004048:CheckUpdateThread] 30 秒无响应,状态：运行 !!!!!!!
+[2020-11-23 11:28:06 539 3c64] [警告] !!!!!!!线程[0x00004048:CheckUpdateThread] 40 秒无响应,状态：运行 !!!!!!!
+[2020-11-23 11:28:16 612 3c64] [警告] !!!!!!!线程[0x00004048:CheckUpdateThread] 50 秒无响应,状态：运行 !!!!!!!
+[2020-11-23 11:28:26 685 3c64] [警告] !!!!!!!线程[0x00004048:CheckUpdateThread] 60 秒无响应,状态：运行 !!!!!!!
+[2020-11-23 11:28:30 680 39dc] ~CLoginDlg
+[2020-11-23 11:28:30 692 39dc] ExitInstance()!
+[2020-11-23 11:28:30 692 39dc] Release preload!
+[2020-11-23 11:28:30 692 39dc] Release TradeApi!
+[2020-11-23 11:28:30 692 39dc] Release MDAPI!
+[2020-11-23 11:28:30 692 39dc] Release DB!
+[2020-11-23 11:28:30 692 39dc] Release Ar DB!
+[2020-11-23 11:28:30 692 39dc] Release TraderConfig!
+[2020-11-23 11:28:30 692 39dc] Release Public!
+[2020-11-23 11:28:30 692 39dc] Release DefaultFont!
+[2020-11-23 11:28:30 692 39dc] Release Log!

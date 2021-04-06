@@ -1,0 +1,1 @@
+INFO     test_logs:test_d4_ReportQuery.py:124 账户历史的用例通过

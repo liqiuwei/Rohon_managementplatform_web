@@ -1,0 +1,3 @@
+INFO     test_logs:test_a6_newclientregister.py:59 开始测试新增账户开户成功用例
+INFO     test_logs:test_a6_newclientregister.py:69 测试用例通过
+INFO     test_logs:test_a6_newclientregister.py:31 关闭浏览器

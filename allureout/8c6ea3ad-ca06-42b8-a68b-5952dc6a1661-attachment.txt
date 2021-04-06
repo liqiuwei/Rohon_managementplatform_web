@@ -1,0 +1,1 @@
+INFO     test_logs:test_d3_template.py:77 绑定期货品种停板交易权限模板的用例通过

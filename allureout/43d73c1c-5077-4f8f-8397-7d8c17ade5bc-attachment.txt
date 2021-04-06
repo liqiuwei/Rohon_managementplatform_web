@@ -1,0 +1,1 @@
+INFO     test_logs:test_d5_Riskcontrolprogram.py:194 产品总结报告的用例通过

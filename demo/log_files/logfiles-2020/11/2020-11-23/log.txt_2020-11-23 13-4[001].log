@@ -1,0 +1,103 @@
+[2020-11-23 13:45:08 942 2d08] <app>version: 5.31.70.7
+[2020-11-23 13:45:08 942 2d08] orderfee: 1.00
+[2020-11-23 13:45:08 942 2d08] <app><tradeDir>: D:\PyCharm 2020.2.3\pythonProject\Rohon_managementplatform_web\demo\trader\FUT_RHA
+[2020-11-23 13:45:09 178 2d08] Thread(MP_TimerThread(Rohon_TimerManager))[0x1704] create by thread[0x2d08] suspend
+[2020-11-23 13:45:09 178 2d08] <app><TraderDllType>[1699][version:5]
+[2020-11-23 13:45:09 179 1704] [0x0150ebc0]create THREAD[1704:5884](MP_TimerThread(Rohon_TimerManager))
+[2020-11-23 13:45:09 179 1704] THREAD[0x1704:5884](MP_TimerThread(Rohon_TimerManager)) runing
+[2020-11-23 13:45:09 180 2d08] <app><MDDllType>[1788][version:5]
+[2020-11-23 13:45:09 185 2d08] Thread(CheckUpdateThread)[0x5dc] create by thread[0x2d08] suspend
+[2020-11-23 13:45:09 185 05dc] [0x01513450]create THREAD[5dc:5884](CheckUpdateThread)
+[2020-11-23 13:45:09 185 05dc] THREAD[0x5dc:5884](CheckUpdateThread) runing
+[2020-11-23 13:45:09 186 2d08] Thread(SockTranferWorkThread)[0x3748] create by thread[0x2d08] suspend
+[2020-11-23 13:45:09 186 2d08] Thread(SockConnectWorkThread)[0x30e4] create by thread[0x2d08] suspend
+[2020-11-23 13:45:09 186 3748] [0x01514b70]create THREAD[3748:5884](SockTranferWorkThread)
+[2020-11-23 13:45:09 186 3748] THREAD[0x3748:5884](SockTranferWorkThread) runing
+[2020-11-23 13:45:09 186 30e4] [0x01514a60]create THREAD[30e4:5884](SockConnectWorkThread)
+[2020-11-23 13:45:09 186 30e4] THREAD[0x30e4:5884](SockConnectWorkThread) runing
+[2020-11-23 13:45:09 249 2d08] <debug>init loginDlg over
+[2020-11-23 13:45:11 196 05dc] <error>Connect server[-210.22.96.59] fail!
+[2020-11-23 13:45:11 196 05dc] <error>Fail to get the update server info.
+[2020-11-23 13:45:11 297 05dc] thread[5dc](CheckUpdateThread) WaitFor self.
+[2020-11-23 13:45:11 297 05dc] THREAD[0x5dc:5884](CheckUpdateThread) exit.
+[2020-11-23 13:45:11 920 2d08] LoginDlg - BnClickedLogin
+[2020-11-23 13:45:19 015 2b48] [警告] !!!!!!!线程[0x000005dc:CheckUpdateThread] 10 秒无响应,状态：运行 !!!!!!!
+[2020-11-23 13:45:19 470 2d08] ~CLoginDlg
+[2020-11-23 13:45:19 471 2d08] ExitInstance()!
+[2020-11-23 13:45:19 471 2d08] Release preload!
+[2020-11-23 13:45:19 471 2d08] Release TradeApi!
+[2020-11-23 13:45:19 471 2d08] Release MDAPI!
+[2020-11-23 13:45:19 471 2d08] Release DB!
+[2020-11-23 13:45:19 471 2d08] Release Ar DB!
+[2020-11-23 13:45:19 471 2d08] Release TraderConfig!
+[2020-11-23 13:45:19 471 2d08] Release Public!
+[2020-11-23 13:45:19 471 2d08] Release DefaultFont!
+[2020-11-23 13:45:19 471 2d08] Release Log!
+[2020-11-23 13:45:21 250 3034] <app>version: 5.31.70.7
+[2020-11-23 13:45:21 250 3034] orderfee: 1.00
+[2020-11-23 13:45:21 250 3034] <app><tradeDir>: D:\PyCharm 2020.2.3\pythonProject\Rohon_managementplatform_web\demo\trader\FUT_RHA
+[2020-11-23 13:45:21 479 3034] Thread(MP_TimerThread(Rohon_TimerManager))[0x2e0c] create by thread[0x3034] suspend
+[2020-11-23 13:45:21 479 3034] <app><TraderDllType>[1699][version:5]
+[2020-11-23 13:45:21 479 2e0c] [0x0152ebc0]create THREAD[2e0c:15808](MP_TimerThread(Rohon_TimerManager))
+[2020-11-23 13:45:21 479 2e0c] THREAD[0x2e0c:15808](MP_TimerThread(Rohon_TimerManager)) runing
+[2020-11-23 13:45:21 481 3034] <app><MDDllType>[1788][version:5]
+[2020-11-23 13:45:21 485 3034] Thread(CheckUpdateThread)[0x3d68] create by thread[0x3034] suspend
+[2020-11-23 13:45:21 485 3d68] [0x01533450]create THREAD[3d68:15808](CheckUpdateThread)
+[2020-11-23 13:45:21 485 3d68] THREAD[0x3d68:15808](CheckUpdateThread) runing
+[2020-11-23 13:45:21 485 3034] Thread(SockTranferWorkThread)[0x4138] create by thread[0x3034] suspend
+[2020-11-23 13:45:21 485 3034] Thread(SockConnectWorkThread)[0x1f4c] create by thread[0x3034] suspend
+[2020-11-23 13:45:21 485 4138] [0x01534b70]create THREAD[4138:15808](SockTranferWorkThread)
+[2020-11-23 13:45:21 485 4138] THREAD[0x4138:15808](SockTranferWorkThread) runing
+[2020-11-23 13:45:21 485 1f4c] [0x01534a60]create THREAD[1f4c:15808](SockConnectWorkThread)
+[2020-11-23 13:45:21 485 1f4c] THREAD[0x1f4c:15808](SockConnectWorkThread) runing
+[2020-11-23 13:45:21 545 3034] <debug>init loginDlg over
+[2020-11-23 13:45:23 496 3d68] <error>Connect server[-210.22.96.59] fail!
+[2020-11-23 13:45:23 496 3d68] <error>Fail to get the update server info.
+[2020-11-23 13:45:23 597 3d68] thread[3d68](CheckUpdateThread) WaitFor self.
+[2020-11-23 13:45:23 597 3d68] THREAD[0x3d68:15808](CheckUpdateThread) exit.
+[2020-11-23 13:45:23 684 3034] LoginDlg - BnClickedLogin
+[2020-11-23 13:45:26 622 3034] ~CLoginDlg
+[2020-11-23 13:45:26 622 3034] ExitInstance()!
+[2020-11-23 13:45:26 622 3034] Release preload!
+[2020-11-23 13:45:26 622 3034] Release TradeApi!
+[2020-11-23 13:45:26 622 3034] Release MDAPI!
+[2020-11-23 13:45:26 622 3034] Release DB!
+[2020-11-23 13:45:26 622 3034] Release Ar DB!
+[2020-11-23 13:45:26 622 3034] Release TraderConfig!
+[2020-11-23 13:45:26 622 3034] Release Public!
+[2020-11-23 13:45:26 622 3034] Release DefaultFont!
+[2020-11-23 13:45:26 622 3034] Release Log!
+[2020-11-23 13:45:37 046 0600] <app>version: 5.31.70.7
+[2020-11-23 13:45:37 047 0600] orderfee: 1.00
+[2020-11-23 13:45:37 047 0600] <app><tradeDir>: D:\PyCharm 2020.2.3\pythonProject\Rohon_managementplatform_web\demo\trader\FUT_RHA
+[2020-11-23 13:45:37 276 0600] Thread(MP_TimerThread(Rohon_TimerManager))[0x2504] create by thread[0x600] suspend
+[2020-11-23 13:45:37 276 0600] <app><TraderDllType>[1699][version:5]
+[2020-11-23 13:45:37 276 2504] [0x0159ebc0]create THREAD[2504:16088](MP_TimerThread(Rohon_TimerManager))
+[2020-11-23 13:45:37 276 2504] THREAD[0x2504:16088](MP_TimerThread(Rohon_TimerManager)) runing
+[2020-11-23 13:45:37 277 0600] <app><MDDllType>[1788][version:5]
+[2020-11-23 13:45:37 281 0600] Thread(CheckUpdateThread)[0x2088] create by thread[0x600] suspend
+[2020-11-23 13:45:37 281 2088] [0x015a3450]create THREAD[2088:16088](CheckUpdateThread)
+[2020-11-23 13:45:37 281 2088] THREAD[0x2088:16088](CheckUpdateThread) runing
+[2020-11-23 13:45:37 281 0600] Thread(SockTranferWorkThread)[0x5a0] create by thread[0x600] suspend
+[2020-11-23 13:45:37 281 0600] Thread(SockConnectWorkThread)[0x1d78] create by thread[0x600] suspend
+[2020-11-23 13:45:37 282 05a0] [0x015a4b70]create THREAD[5a0:16088](SockTranferWorkThread)
+[2020-11-23 13:45:37 282 05a0] THREAD[0x5a0:16088](SockTranferWorkThread) runing
+[2020-11-23 13:45:37 282 1d78] [0x015a4a60]create THREAD[1d78:16088](SockConnectWorkThread)
+[2020-11-23 13:45:37 282 1d78] THREAD[0x1d78:16088](SockConnectWorkThread) runing
+[2020-11-23 13:45:37 340 0600] <debug>init loginDlg over
+[2020-11-23 13:45:39 293 2088] <error>Connect server[-210.22.96.59] fail!
+[2020-11-23 13:45:39 294 2088] <error>Fail to get the update server info.
+[2020-11-23 13:45:39 395 2088] thread[2088](CheckUpdateThread) WaitFor self.
+[2020-11-23 13:45:39 395 2088] THREAD[0x2088:16088](CheckUpdateThread) exit.
+[2020-11-23 13:45:39 484 0600] LoginDlg - BnClickedLogin
+[2020-11-23 13:45:41 393 0600] ~CLoginDlg
+[2020-11-23 13:45:41 393 0600] ExitInstance()!
+[2020-11-23 13:45:41 393 0600] Release preload!
+[2020-11-23 13:45:41 393 0600] Release TradeApi!
+[2020-11-23 13:45:41 393 0600] Release MDAPI!
+[2020-11-23 13:45:41 393 0600] Release DB!
+[2020-11-23 13:45:41 393 0600] Release Ar DB!
+[2020-11-23 13:45:41 393 0600] Release TraderConfig!
+[2020-11-23 13:45:41 393 0600] Release Public!
+[2020-11-23 13:45:41 393 0600] Release DefaultFont!
+[2020-11-23 13:45:41 393 0600] Release Log!

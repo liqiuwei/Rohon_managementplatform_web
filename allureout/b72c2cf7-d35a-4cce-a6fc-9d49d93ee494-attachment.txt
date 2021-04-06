@@ -1,0 +1,2 @@
+2021-04-02 15:53:50,606--test_d4_ReportQuery.py--hanghao:150--INFO:手工行权的用例通过
+2021-04-02 15:53:52,738--test_d4_ReportQuery.py--hanghao:24--INFO:浏览器关闭

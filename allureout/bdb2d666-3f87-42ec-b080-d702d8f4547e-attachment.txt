@@ -1,0 +1,1 @@
+INFO     test_logs:test_d4_ReportQuery.py:51 报单查询成交的用例通过

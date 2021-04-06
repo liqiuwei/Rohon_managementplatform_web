@@ -1,0 +1,2 @@
+2021-04-02 15:53:20,385--test_d4_ReportQuery.py--hanghao:15--INFO:打开浏览器
+2021-04-02 15:53:32,430--test_d4_ReportQuery.py--hanghao:31--INFO:报单查询资金的用例通过

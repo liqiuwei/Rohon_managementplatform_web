@@ -1,0 +1,3 @@
+2021-04-02 15:42:09,583--test_a6_newclientregister.py--hanghao:59--INFO:开始测试新增账户开户成功用例
+2021-04-02 15:42:17,538--test_a6_newclientregister.py--hanghao:69--INFO:测试用例通过
+2021-04-02 15:42:19,625--test_a6_newclientregister.py--hanghao:31--INFO:关闭浏览器

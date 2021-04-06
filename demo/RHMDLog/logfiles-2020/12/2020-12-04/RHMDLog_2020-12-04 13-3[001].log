@@ -1,0 +1,1362 @@
+[2020-12-04 13:32:28 654 170c] <app>[   RHMDApi][     InitApi] - CreateFtdcMdApi static Version Foreign 29.4.1.1
+[2020-12-04 13:32:28 654 170c] <app>[   RHMDApi][      RegSpi] - RegisterSpi [0x04565e24]
+[2020-12-04 13:32:28 654 170c] <app>[   RHMDApi][    RegFront] - RegisterFront : tcp://192.168.1.37:21222
+[2020-12-04 13:32:28 655 170c] <app>[   RHMDApi][        Init] - Init version:2.0.0.1--->
+[2020-12-04 13:32:28 655 170c] <app>[   RHMDApi][        Init] - Init <---
+[2020-12-04 13:32:28 664 1804] <app>[   RHMDApi][ OnConnectOk] - OnConnectOk begin
+[2020-12-04 13:32:28 676 1804] <app>[   RHMDApi][ OnConnectOk] - OnConnectOk end
+[2020-12-04 13:32:28 706 1804] <dbg>[   RHMDApi][      HNDMSG] - [HandleMessage]
+[2020-12-04 13:32:40 700 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:32:40 700 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:32:40 700 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:32:40 700 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:32:40 700 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00300031
+[2020-12-04 13:32:52 698 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:32:52 698 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:32:52 698 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:32:52 699 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:32:52 699 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x004c004d
+[2020-12-04 13:32:53 223 170c] <app>[   RHMDApi][       --Sub] - Subscribe market [cu2012]
+[2020-12-04 13:32:53 224 1804] <dbg>[   RHMDApi][      HNDMSG] - [HandleMessage]
+[2020-12-04 13:32:53 224 1804] <dbg>[   RHMDApi][      HNDMSG] - [EvtRH_IMarket_RtnDepthMarket]
+[2020-12-04 13:33:05 221 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:33:05 221 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:33:05 221 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:33:05 221 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:33:05 221 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x006d006e
+[2020-12-04 13:33:17 220 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:33:17 220 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:33:17 220 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:33:17 220 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:33:17 220 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x008e008f
+[2020-12-04 13:33:29 216 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:33:29 216 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:33:29 216 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:33:29 216 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:33:29 216 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ac00ad
+[2020-12-04 13:33:41 219 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:33:41 219 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:33:41 219 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:33:41 220 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:33:41 220 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00c800c9
+[2020-12-04 13:33:53 214 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:33:53 214 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:33:53 214 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:33:53 214 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:33:53 214 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e600e7
+[2020-12-04 13:34:05 216 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:34:05 216 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:34:05 216 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:34:05 216 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:34:05 216 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00050104
+[2020-12-04 13:34:17 228 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:34:17 228 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:34:17 228 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:34:17 229 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:34:17 229 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00220121
+[2020-12-04 13:34:29 214 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:34:29 214 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:34:29 214 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:34:29 214 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:34:29 214 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x003f013e
+[2020-12-04 13:34:41 219 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:34:41 219 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:34:41 219 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:34:41 219 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:34:41 219 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x005e015b
+[2020-12-04 13:34:53 219 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:34:53 219 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:34:53 219 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:34:53 219 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:34:53 219 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x007d0179
+[2020-12-04 13:35:05 215 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:35:05 215 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:35:05 215 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:35:05 215 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:35:05 215 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00900196
+[2020-12-04 13:35:17 222 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:35:17 222 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:35:17 222 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:35:17 222 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:35:17 222 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00b501b2
+[2020-12-04 13:35:29 215 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:35:29 215 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:35:29 215 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:35:29 216 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:35:29 216 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00d301d0
+[2020-12-04 13:35:41 220 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:35:41 220 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:35:41 220 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:35:41 220 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:35:41 220 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ef01ed
+[2020-12-04 13:35:53 217 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:35:53 217 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:35:53 217 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:35:53 290 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:35:53 290 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0011020c
+[2020-12-04 13:36:05 281 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:36:05 281 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:36:05 281 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:36:05 282 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:36:05 282 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x002c0228
+[2020-12-04 13:36:17 280 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:36:17 280 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:36:17 281 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:36:17 281 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:36:17 282 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00480244
+[2020-12-04 13:36:29 283 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:36:29 283 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:36:29 283 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:36:29 283 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:36:29 283 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x004e0262
+[2020-12-04 13:36:41 277 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:36:41 277 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:36:41 277 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:36:41 277 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:36:41 277 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0084027e
+[2020-12-04 13:36:53 277 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:36:53 277 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:36:53 277 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:36:53 278 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:36:53 278 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x009b029c
+[2020-12-04 13:37:05 280 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:37:05 280 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:37:05 280 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:37:05 281 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:37:05 281 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00b702b9
+[2020-12-04 13:37:17 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:37:17 285 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:37:17 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:37:17 286 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:37:17 286 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00dc02d6
+[2020-12-04 13:37:29 281 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:37:29 281 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:37:29 281 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:37:29 281 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:37:29 281 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00f902f3
+[2020-12-04 13:37:41 279 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:37:41 279 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:37:41 279 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:37:41 279 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:37:41 279 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00190310
+[2020-12-04 13:37:53 276 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:37:53 276 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:37:53 276 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:37:53 276 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:37:53 276 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x002f032e
+[2020-12-04 13:38:05 284 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:38:05 284 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:38:05 284 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:38:05 284 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:38:05 284 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0053034a
+[2020-12-04 13:38:17 280 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:38:17 280 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:38:17 280 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:38:17 281 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:38:17 281 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00700367
+[2020-12-04 13:38:29 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:38:29 285 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:38:29 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:38:29 285 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:38:29 285 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x008c0385
+[2020-12-04 13:38:41 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:38:41 285 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:38:41 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:38:41 286 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:38:41 286 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00aa03a2
+[2020-12-04 13:38:53 281 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:38:53 281 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:38:53 281 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:38:53 281 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:38:53 281 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00c903bf
+[2020-12-04 13:39:05 286 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:39:05 286 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:39:05 286 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:39:05 286 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:39:05 286 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e003dc
+[2020-12-04 13:39:17 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:39:17 285 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:39:17 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:39:17 285 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:39:17 285 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000703f9
+[2020-12-04 13:39:29 283 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:39:29 283 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:39:29 283 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:39:29 283 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:39:29 283 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000b0417
+[2020-12-04 13:39:41 279 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:39:41 279 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:39:41 279 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:39:41 279 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:39:41 279 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x003d0433
+[2020-12-04 13:39:53 286 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:39:53 286 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:39:53 286 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:39:53 286 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:39:53 286 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00590451
+[2020-12-04 13:40:05 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:40:05 285 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:40:05 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:40:05 285 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:40:05 285 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0072046e
+[2020-12-04 13:40:17 283 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:40:17 283 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:40:17 283 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:40:17 283 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:40:17 283 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0099048b
+[2020-12-04 13:40:29 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:40:29 285 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:40:29 285 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:40:29 285 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:40:29 285 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00b204a8
+[2020-12-04 13:40:41 282 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:40:41 282 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:40:41 282 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:40:41 282 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:40:41 282 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00d104c5
+[2020-12-04 13:40:53 279 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:40:53 279 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:40:53 279 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:40:53 279 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:40:53 279 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ea04e3
+[2020-12-04 13:41:05 295 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:41:05 295 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:41:05 295 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:41:05 295 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:41:05 295 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00fa0500
+[2020-12-04 13:41:17 301 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:41:17 301 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:41:17 301 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:41:17 301 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:41:17 301 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x002b051c
+[2020-12-04 13:41:29 294 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:41:29 294 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:41:29 294 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:41:29 294 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:41:29 294 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0047053a
+[2020-12-04 13:41:41 300 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:41:41 300 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:41:41 300 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:41:41 300 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:41:41 300 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00690557
+[2020-12-04 13:41:53 293 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:41:53 294 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:41:53 294 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:41:53 295 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:41:53 295 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00800574
+[2020-12-04 13:42:05 302 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:42:05 302 39ac] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:42:05 302 39ac] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:42:05 302 1804] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:42:05 302 1804] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00750591
+[2020-12-04 13:43:32 676 52b4] <app>[   RHMDApi][     InitApi] - CreateFtdcMdApi static Version Foreign 29.4.1.1
+[2020-12-04 13:43:32 676 52b4] <app>[   RHMDApi][      RegSpi] - RegisterSpi [0x04465e24]
+[2020-12-04 13:43:32 676 52b4] <app>[   RHMDApi][    RegFront] - RegisterFront : tcp://192.168.1.37:21222
+[2020-12-04 13:43:32 677 52b4] <app>[   RHMDApi][        Init] - Init version:2.0.0.1--->
+[2020-12-04 13:43:32 677 52b4] <app>[   RHMDApi][        Init] - Init <---
+[2020-12-04 13:43:32 699 3eec] <app>[   RHMDApi][ OnConnectOk] - OnConnectOk begin
+[2020-12-04 13:43:32 699 3eec] <app>[   RHMDApi][ OnConnectOk] - OnConnectOk end
+[2020-12-04 13:43:32 699 3eec] <dbg>[   RHMDApi][      HNDMSG] - [HandleMessage]
+[2020-12-04 13:43:44 701 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:43:44 701 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:43:44 702 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:43:44 702 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:43:44 702 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00300031
+[2020-12-04 13:43:56 706 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:43:56 706 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:43:56 706 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:43:56 706 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:43:56 706 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x004c004d
+[2020-12-04 13:43:57 058 52b4] <app>[   RHMDApi][       --Sub] - Subscribe market [cu2012]
+[2020-12-04 13:43:57 059 3eec] <dbg>[   RHMDApi][      HNDMSG] - [HandleMessage]
+[2020-12-04 13:43:57 059 3eec] <dbg>[   RHMDApi][      HNDMSG] - [EvtRH_IMarket_RtnDepthMarket]
+[2020-12-04 13:44:09 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:44:09 066 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:44:09 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:44:09 066 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:44:09 066 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x006d006e
+[2020-12-04 13:44:21 064 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:44:21 064 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:44:21 064 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:44:21 064 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:44:21 064 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x008a008b
+[2020-12-04 13:44:33 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:44:33 063 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:44:33 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:44:33 063 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:44:33 063 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00a700a8
+[2020-12-04 13:44:45 065 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:44:45 065 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:44:45 065 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:44:45 065 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:44:45 065 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00c400c5
+[2020-12-04 13:44:57 067 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:44:57 067 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:44:57 067 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:44:57 067 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:44:57 067 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e200e3
+[2020-12-04 13:45:09 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:45:09 063 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:45:09 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:45:09 063 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:45:09 063 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ff0100
+[2020-12-04 13:45:21 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:45:21 066 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:45:21 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:45:21 066 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:45:21 066 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x001d011c
+[2020-12-04 13:45:33 060 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:45:33 060 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:45:33 060 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:45:33 060 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:45:33 060 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x003b013a
+[2020-12-04 13:45:45 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:45:45 066 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:45:45 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:45:45 066 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:45:45 066 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x004a0157
+[2020-12-04 13:45:57 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:45:57 063 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:45:57 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:45:57 063 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:45:57 063 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00770174
+[2020-12-04 13:46:09 064 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:46:09 064 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:46:09 064 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:46:09 064 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:46:09 064 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00940191
+[2020-12-04 13:46:21 058 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:46:21 058 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:46:21 058 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:46:21 058 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:46:21 058 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00b001ae
+[2020-12-04 13:46:33 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:46:33 063 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:46:33 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:46:33 063 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:46:33 063 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00cf01cc
+[2020-12-04 13:46:45 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:46:45 066 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:46:45 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:46:45 066 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:46:45 067 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00eb01e8
+[2020-12-04 13:46:57 065 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:46:57 065 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:46:57 065 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:46:57 066 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:46:57 066 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000c0206
+[2020-12-04 13:47:09 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:47:09 059 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:47:09 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:47:09 059 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:47:09 059 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00280223
+[2020-12-04 13:47:21 064 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:47:21 064 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:47:21 064 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:47:21 064 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:47:21 064 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00450240
+[2020-12-04 13:47:33 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:47:33 066 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:47:33 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:47:33 066 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:47:33 066 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0063025d
+[2020-12-04 13:47:45 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:47:45 059 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:47:45 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:47:45 059 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:47:45 059 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0074027a
+[2020-12-04 13:47:57 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:47:57 066 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:47:57 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:47:57 066 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:47:57 066 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x009f0298
+[2020-12-04 13:48:09 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:48:09 059 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:48:09 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:48:09 059 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:48:09 059 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ba02b4
+[2020-12-04 13:48:21 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:48:21 063 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:48:21 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:48:21 064 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:48:21 064 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00d702d1
+[2020-12-04 13:48:33 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:48:33 066 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:48:33 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:48:33 066 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:48:33 066 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ee02ef
+[2020-12-04 13:48:45 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:48:45 063 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:48:45 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:48:45 063 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:48:45 063 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0008030c
+[2020-12-04 13:48:57 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:48:57 059 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:48:57 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:48:57 059 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:48:57 059 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00330329
+[2020-12-04 13:49:09 067 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:49:09 067 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:49:09 067 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:49:09 067 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:49:09 067 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00500346
+[2020-12-04 13:49:21 068 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:49:21 068 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:49:21 068 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:49:21 068 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:49:21 068 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x006b0363
+[2020-12-04 13:49:33 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:49:33 059 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:49:33 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:49:33 059 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:49:33 059 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00830381
+[2020-12-04 13:49:45 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:49:45 059 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:49:45 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:49:45 059 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:49:45 059 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00a9039d
+[2020-12-04 13:49:57 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:49:57 066 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:49:57 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:49:57 066 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:49:57 066 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00bc03bb
+[2020-12-04 13:50:09 064 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:50:09 064 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:50:09 064 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:50:09 064 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:50:09 064 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e003d8
+[2020-12-04 13:50:21 058 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:50:21 058 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:50:21 058 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:50:21 059 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:50:21 059 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00fd03f5
+[2020-12-04 13:50:33 057 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:50:33 057 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:50:33 057 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:50:33 057 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:50:33 057 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00170412
+[2020-12-04 13:50:45 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:50:45 066 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:50:45 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:50:45 066 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:50:45 066 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x002d042f
+[2020-12-04 13:50:57 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:50:57 059 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:50:57 059 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:50:57 059 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:50:57 059 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x004f044d
+[2020-12-04 13:51:09 064 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:51:09 064 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:51:09 064 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:51:09 064 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:51:09 064 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0079046a
+[2020-12-04 13:51:21 060 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:51:21 060 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:51:21 060 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:51:21 060 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:51:21 060 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00910486
+[2020-12-04 13:51:33 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:51:33 063 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:51:33 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:51:33 063 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:51:33 063 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ac04a4
+[2020-12-04 13:51:45 057 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:51:45 057 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:51:45 057 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:51:45 057 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:51:45 057 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00c204c1
+[2020-12-04 13:51:57 062 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:51:57 062 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:51:57 062 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:51:57 062 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:51:57 062 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e304de
+[2020-12-04 13:52:09 060 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:52:09 060 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:52:09 060 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:52:09 060 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:52:09 060 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000904fb
+[2020-12-04 13:52:21 057 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:52:21 057 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:52:21 057 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:52:21 057 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:52:21 057 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00260518
+[2020-12-04 13:52:33 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:52:33 066 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:52:33 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:52:33 067 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:52:33 067 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x003f0536
+[2020-12-04 13:52:45 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:52:45 063 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:52:45 063 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:52:45 063 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:52:45 063 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00640552
+[2020-12-04 13:52:57 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:52:57 066 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:52:57 066 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:52:57 076 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:52:57 076 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00780570
+[2020-12-04 13:53:09 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:53:09 076 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:53:09 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:53:09 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:53:09 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x009d058d
+[2020-12-04 13:53:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:53:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:53:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:53:21 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:53:21 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00bb05aa
+[2020-12-04 13:53:33 074 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:53:33 074 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:53:33 074 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:53:33 074 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:53:33 074 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00d905c8
+[2020-12-04 13:53:45 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:53:45 076 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:53:45 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:53:45 076 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:53:45 076 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00f605e5
+[2020-12-04 13:53:57 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:53:57 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:53:57 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:53:57 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:53:57 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00fa0603
+[2020-12-04 13:54:09 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:54:09 076 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:54:09 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:54:09 076 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:54:09 076 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x002f0620
+[2020-12-04 13:54:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:54:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:54:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:54:21 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:54:21 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0051063c
+[2020-12-04 13:54:33 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:54:33 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:54:33 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:54:33 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:54:33 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0056065a
+[2020-12-04 13:54:45 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:54:45 076 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:54:45 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:54:45 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:54:45 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00720677
+[2020-12-04 13:54:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:54:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:54:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:54:57 081 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:54:57 081 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00a00695
+[2020-12-04 13:55:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:55:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:55:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:55:09 083 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:55:09 083 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00af06b1
+[2020-12-04 13:55:21 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:55:21 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:55:21 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:55:21 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:55:21 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ca06ce
+[2020-12-04 13:55:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:55:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:55:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:55:33 075 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:55:33 075 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00cf06ec
+[2020-12-04 13:55:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:55:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:55:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:55:45 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:55:45 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00200708
+[2020-12-04 13:55:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:55:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:55:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:55:57 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:55:57 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00220726
+[2020-12-04 13:56:09 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:56:09 073 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:56:09 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:56:09 073 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:56:09 073 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00280743
+[2020-12-04 13:56:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:56:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:56:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:56:21 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:56:21 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00600760
+[2020-12-04 13:56:33 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:56:33 080 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:56:33 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:56:33 080 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:56:33 080 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0085077d
+[2020-12-04 13:56:45 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:56:45 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:56:45 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:56:45 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:56:45 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x009b079a
+[2020-12-04 13:56:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:56:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:56:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:56:57 083 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:56:57 083 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00b507b8
+[2020-12-04 13:57:09 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:57:09 073 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:57:09 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:57:09 073 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:57:09 073 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e407d5
+[2020-12-04 13:57:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:57:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:57:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:57:21 081 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:57:21 081 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00f207f1
+[2020-12-04 13:57:33 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:57:33 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:57:33 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:57:33 080 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:57:33 080 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0023080f
+[2020-12-04 13:57:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:57:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:57:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:57:45 081 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:57:45 081 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0038082c
+[2020-12-04 13:57:57 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:57:57 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:57:57 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:57:57 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:57:57 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x004c0849
+[2020-12-04 13:58:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:58:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:58:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:58:09 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:58:09 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00680866
+[2020-12-04 13:58:21 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:58:21 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:58:21 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:58:21 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:58:21 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x006d0883
+[2020-12-04 13:58:33 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:58:33 073 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:58:33 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:58:33 073 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:58:33 073 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x009908a1
+[2020-12-04 13:58:45 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:58:45 073 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:58:45 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:58:45 074 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:58:45 074 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00a708bd
+[2020-12-04 13:58:57 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:58:57 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:58:57 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:58:57 076 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:58:57 076 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00d608db
+[2020-12-04 13:59:09 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:59:09 073 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:59:09 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:59:09 073 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:59:09 073 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x001308f8
+[2020-12-04 13:59:21 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:59:21 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:59:21 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:59:21 081 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:59:21 081 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x002c0915
+[2020-12-04 13:59:33 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:59:33 073 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:59:33 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:59:33 073 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:59:33 073 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00390932
+[2020-12-04 13:59:45 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:59:45 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:59:45 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:59:45 075 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:59:45 075 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0057094f
+[2020-12-04 13:59:57 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 13:59:57 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 13:59:57 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 13:59:57 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 13:59:57 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x006a096d
+[2020-12-04 14:00:09 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:00:09 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:00:09 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:00:09 075 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:00:09 075 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00a8098a
+[2020-12-04 14:00:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:00:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:00:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:00:21 080 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:00:21 080 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00c509a6
+[2020-12-04 14:00:33 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:00:33 076 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:00:33 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:00:33 076 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:00:33 076 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00c409c4
+[2020-12-04 14:00:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:00:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:00:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:00:45 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:00:45 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00f509e1
+[2020-12-04 14:00:57 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:00:57 076 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:00:57 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:00:57 076 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:00:57 076 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000e09ff
+[2020-12-04 14:01:09 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:01:09 080 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:01:09 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:01:09 080 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:01:09 080 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00210a1b
+[2020-12-04 14:01:21 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:01:21 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:01:21 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:01:21 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:01:21 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x003b0a38
+[2020-12-04 14:01:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:01:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:01:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:01:33 075 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:01:33 075 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00700a56
+[2020-12-04 14:01:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:01:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:01:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:01:45 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:01:45 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x007f0a73
+[2020-12-04 14:01:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:01:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:01:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:01:57 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:01:57 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x008e0a90
+[2020-12-04 14:02:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:02:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:02:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:02:09 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:02:09 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00d00aad
+[2020-12-04 14:02:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:02:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:02:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:02:21 080 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:02:21 080 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00cb0aca
+[2020-12-04 14:02:33 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:02:33 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:02:33 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:02:33 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:02:33 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00fb0ae8
+[2020-12-04 14:02:45 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:02:45 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:02:45 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:02:45 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:02:45 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x001a0b04
+[2020-12-04 14:02:57 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:02:57 083 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:02:57 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:02:57 083 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:02:57 083 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00320b22
+[2020-12-04 14:03:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:03:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:03:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:03:09 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:03:09 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00330b3f
+[2020-12-04 14:03:21 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:03:21 083 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:03:21 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:03:21 083 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:03:21 083 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00820b5c
+[2020-12-04 14:03:33 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:03:33 076 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:03:33 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:03:33 076 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:03:33 076 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00980b7a
+[2020-12-04 14:03:45 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:03:45 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:03:45 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:03:45 075 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:03:45 075 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00830b97
+[2020-12-04 14:03:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:03:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:03:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:03:57 081 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:03:57 081 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00c90bb5
+[2020-12-04 14:04:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:04:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:04:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:04:09 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:04:09 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00de0bd2
+[2020-12-04 14:04:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:04:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:04:21 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:04:21 080 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:04:21 080 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00fe0bee
+[2020-12-04 14:04:33 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:04:33 080 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:04:33 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:04:33 080 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:04:33 080 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00170c0c
+[2020-12-04 14:04:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:04:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:04:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:04:45 081 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:04:45 081 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00540c29
+[2020-12-04 14:04:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:04:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:04:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:04:57 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:04:57 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x005a0c47
+[2020-12-04 14:05:09 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:05:09 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:05:09 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:05:09 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:05:09 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00280c63
+[2020-12-04 14:05:21 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:05:21 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:05:21 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:05:21 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:05:21 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x009c0c80
+[2020-12-04 14:05:33 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:05:33 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:05:33 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:05:33 081 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:05:33 081 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00850c9e
+[2020-12-04 14:05:45 088 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:05:45 088 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:05:45 088 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:05:45 088 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:05:45 088 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00a90cbb
+[2020-12-04 14:05:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:05:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:05:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:05:57 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:05:57 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00bc0cd8
+[2020-12-04 14:06:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:06:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:06:09 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:06:09 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:06:09 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00f90cf5
+[2020-12-04 14:06:21 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:06:21 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:06:21 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:06:21 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:06:21 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00270d12
+[2020-12-04 14:06:33 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:06:33 080 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:06:33 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:06:33 080 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:06:33 080 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00260d2f
+[2020-12-04 14:06:45 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:06:45 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:06:45 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:06:45 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:06:45 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00550d4c
+[2020-12-04 14:06:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:06:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:06:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:06:57 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:06:57 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00710d6a
+[2020-12-04 14:07:09 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:07:09 083 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:07:09 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:07:09 083 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:07:09 083 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00940d87
+[2020-12-04 14:07:21 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:07:21 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:07:21 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:07:21 075 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:07:21 075 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00b90da3
+[2020-12-04 14:07:33 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:07:33 073 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:07:33 073 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:07:33 074 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:07:33 074 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e60dc1
+[2020-12-04 14:07:45 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:07:45 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:07:45 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:07:45 083 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:07:45 083 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ef0dde
+[2020-12-04 14:07:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:07:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:07:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:07:57 081 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:07:57 081 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00130dfc
+[2020-12-04 14:08:09 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:08:09 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:08:09 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:08:09 076 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:08:09 076 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00430e18
+[2020-12-04 14:08:21 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:08:21 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:08:21 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:08:21 075 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:08:21 075 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00460e35
+[2020-12-04 14:08:33 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:08:33 083 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:08:33 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:08:33 083 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:08:33 083 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00450e53
+[2020-12-04 14:08:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:08:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:08:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:08:45 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:08:45 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00770e70
+[2020-12-04 14:08:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:08:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:08:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:08:57 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:08:57 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00a40e8d
+[2020-12-04 14:09:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:09:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:09:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:09:09 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:09:09 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00b00eaa
+[2020-12-04 14:09:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:09:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:09:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:09:21 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:09:21 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e90ec7
+[2020-12-04 14:09:33 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:09:33 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:09:33 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:09:33 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:09:33 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00030ee5
+[2020-12-04 14:09:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:09:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:09:45 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:09:45 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:09:45 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x001b0f01
+[2020-12-04 14:09:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:09:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:09:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:09:57 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:09:57 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00290f1f
+[2020-12-04 14:10:09 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:10:09 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:10:09 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:10:09 075 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:10:09 075 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x003f0f3c
+[2020-12-04 14:10:21 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:10:21 076 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:10:21 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:10:21 076 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:10:21 076 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x008b0f59
+[2020-12-04 14:10:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:10:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:10:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:10:33 075 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:10:33 075 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00840f76
+[2020-12-04 14:10:45 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:10:45 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:10:45 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:10:45 083 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:10:45 083 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00bf0f93
+[2020-12-04 14:10:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:10:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:10:57 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:10:57 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:10:57 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00c80fb1
+[2020-12-04 14:11:09 074 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:11:09 074 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:11:09 074 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:11:09 074 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:11:09 074 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00f10fcd
+[2020-12-04 14:11:21 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:11:21 077 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:11:21 077 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:11:21 077 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:11:21 077 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00190fea
+[2020-12-04 14:11:33 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:11:33 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:11:33 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:11:33 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:11:33 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00371008
+[2020-12-04 14:11:45 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:11:45 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:11:45 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:11:45 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:11:45 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00021025
+[2020-12-04 14:11:57 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:11:57 080 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:11:57 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:11:57 080 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:11:57 080 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00731042
+[2020-12-04 14:12:09 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:12:09 080 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:12:09 080 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:12:09 081 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:12:09 081 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0097105f
+[2020-12-04 14:12:21 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:12:21 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:12:21 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:12:21 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:12:21 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0060107c
+[2020-12-04 14:12:33 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:12:33 076 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:12:33 076 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:12:33 076 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:12:33 076 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00a8109a
+[2020-12-04 14:12:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:12:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:12:45 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:12:45 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:12:45 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x009910b6
+[2020-12-04 14:12:57 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:12:57 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:12:57 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:12:57 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:12:57 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ed10d4
+[2020-12-04 14:13:09 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:13:09 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:13:09 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:13:09 081 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:13:09 081 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x001610f1
+[2020-12-04 14:13:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:13:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:13:21 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:13:21 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:13:21 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0044110e
+[2020-12-04 14:13:33 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:13:33 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:13:33 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:13:33 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:13:33 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x005e112c
+[2020-12-04 14:13:45 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:13:45 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:13:45 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:13:45 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:13:45 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00391149
+[2020-12-04 14:13:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:13:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:13:57 082 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:13:57 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:13:57 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x004a1167
+[2020-12-04 14:14:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:14:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:14:09 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:14:09 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:14:09 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x006d1183
+[2020-12-04 14:14:21 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:14:21 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:14:21 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:14:21 082 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:14:21 082 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ba11a0
+[2020-12-04 14:14:33 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:14:33 078 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:14:33 078 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:14:33 078 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:14:33 078 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00d311be
+[2020-12-04 14:14:45 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:14:45 083 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:14:45 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:14:45 083 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:14:45 083 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000f11db
+[2020-12-04 14:14:57 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:14:57 079 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:14:57 079 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:14:57 079 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:14:57 079 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000b11f8
+[2020-12-04 14:15:09 074 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:15:09 074 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:15:09 074 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:15:09 074 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:15:09 074 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00111215
+[2020-12-04 14:15:21 074 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:15:21 074 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:15:21 074 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:15:21 076 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:15:21 076 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00581232
+[2020-12-04 14:15:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:15:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:15:33 075 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:15:33 075 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:15:33 075 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x003b1250
+[2020-12-04 14:15:45 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:15:45 083 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:15:45 083 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:15:45 083 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:15:45 083 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x008f126c
+[2020-12-04 14:15:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:15:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:15:57 081 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:15:57 205 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:15:57 205 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00a3128a
+[2020-12-04 14:16:09 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:16:09 205 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:16:09 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:16:09 205 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:16:09 205 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00be12a7
+[2020-12-04 14:16:21 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:16:21 208 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:16:21 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:16:21 208 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:16:21 208 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000112c4
+[2020-12-04 14:16:33 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:16:33 208 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:16:33 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:16:33 208 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:16:33 208 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x001e12e1
+[2020-12-04 14:16:45 204 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:16:45 204 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:16:45 204 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:16:45 204 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:16:45 204 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00f212fe
+[2020-12-04 14:16:57 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:16:57 200 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:16:57 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:16:57 200 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:16:57 200 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00fa131c
+[2020-12-04 14:17:09 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:17:09 206 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:17:09 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:17:09 207 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:17:09 207 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x006e1339
+[2020-12-04 14:17:21 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:17:21 206 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:17:21 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:17:21 206 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:17:21 206 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00661355
+[2020-12-04 14:17:33 202 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:17:33 202 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:17:33 202 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:17:33 202 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:17:33 202 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00aa1373
+[2020-12-04 14:17:45 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:17:45 207 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:17:45 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:17:45 207 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:17:45 207 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x009c1390
+[2020-12-04 14:17:57 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:17:57 205 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:17:57 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:17:57 205 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:17:57 205 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00b013ae
+[2020-12-04 14:18:09 201 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:18:09 201 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:18:09 201 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:18:09 201 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:18:09 201 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e813ca
+[2020-12-04 14:18:21 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:18:21 208 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:18:21 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:18:21 208 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:18:21 208 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000613e7
+[2020-12-04 14:18:33 203 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:18:33 203 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:18:33 203 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:18:33 203 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:18:33 203 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000a1405
+[2020-12-04 14:18:45 198 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:18:45 198 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:18:45 198 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:18:45 198 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:18:45 198 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00201422
+[2020-12-04 14:18:57 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:18:57 206 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:18:57 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:18:57 206 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:18:57 206 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x005f143f
+[2020-12-04 14:19:09 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:19:09 207 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:19:09 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:19:09 207 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:19:09 207 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x006b145c
+[2020-12-04 14:19:21 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:19:21 205 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:19:21 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:19:21 206 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:19:21 206 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ab1479
+[2020-12-04 14:19:33 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:19:33 205 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:19:33 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:19:33 205 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:19:33 205 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00c11497
+[2020-12-04 14:19:45 201 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:19:45 201 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:19:45 201 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:19:45 201 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:19:45 201 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00dc14b3
+[2020-12-04 14:19:57 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:19:57 205 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:19:57 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:19:57 205 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:19:57 205 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00d414d1
+[2020-12-04 14:20:09 202 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:20:09 202 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:20:09 202 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:20:09 202 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:20:09 202 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000914ee
+[2020-12-04 14:20:21 199 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:20:21 199 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:20:21 199 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:20:21 199 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:20:21 199 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0036150b
+[2020-12-04 14:20:33 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:20:33 207 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:20:33 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:20:33 207 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:20:33 207 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00241528
+[2020-12-04 14:20:45 204 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:20:45 204 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:20:45 204 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:20:45 204 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:20:45 204 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x004f1545
+[2020-12-04 14:20:57 204 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:20:57 204 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:20:57 204 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:20:57 205 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:20:57 205 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00281563
+[2020-12-04 14:21:09 201 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:21:09 201 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:21:09 201 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:21:09 201 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:21:09 201 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00b1157f
+[2020-12-04 14:21:21 201 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:21:21 202 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:21:21 202 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:21:21 202 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:21:21 202 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00ea159c
+[2020-12-04 14:21:33 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:21:33 200 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:21:33 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:21:33 200 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:21:33 200 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00dd15ba
+[2020-12-04 14:21:45 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:21:45 200 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:21:45 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:21:45 200 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:21:45 200 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00fd15d7
+[2020-12-04 14:21:57 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:21:57 208 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:21:57 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:21:57 208 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:21:57 208 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00f915f4
+[2020-12-04 14:22:09 203 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:22:09 203 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:22:09 203 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:22:09 203 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:22:09 203 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00211611
+[2020-12-04 14:22:21 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:22:21 208 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:22:21 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:22:21 208 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:22:21 208 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x004e162e
+[2020-12-04 14:22:33 203 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:22:33 203 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:22:33 203 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:22:33 204 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:22:33 204 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0070164c
+[2020-12-04 14:22:45 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:22:45 207 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:22:45 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:22:45 207 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:22:45 207 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00921668
+[2020-12-04 14:22:57 199 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:22:57 199 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:22:57 199 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:22:57 199 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:22:57 199 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00771686
+[2020-12-04 14:23:09 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:23:09 207 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:23:09 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:23:09 207 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:23:09 207 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00a816a3
+[2020-12-04 14:23:21 202 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:23:21 202 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:23:21 202 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:23:21 202 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:23:21 202 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00c416c0
+[2020-12-04 14:23:33 204 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:23:33 204 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:23:33 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:23:33 206 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:23:33 206 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00f816de
+[2020-12-04 14:23:45 199 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:23:45 199 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:23:45 199 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:23:45 199 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:23:45 199 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x000316fb
+[2020-12-04 14:23:57 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:23:57 208 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:23:57 208 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:23:57 208 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:23:57 208 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00431719
+[2020-12-04 14:24:09 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:24:09 205 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:24:09 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:24:09 206 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:24:09 206 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00441736
+[2020-12-04 14:24:21 204 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:24:21 204 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:24:21 204 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:24:21 204 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:24:21 204 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00681752
+[2020-12-04 14:24:33 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:24:33 207 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:24:33 207 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:24:33 207 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:24:33 207 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00841770
+[2020-12-04 14:24:45 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:24:45 206 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:24:45 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:24:45 206 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:24:45 206 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00b2178d
+[2020-12-04 14:24:57 202 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:24:57 202 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:24:57 202 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:24:57 202 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:24:57 202 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00a417aa
+[2020-12-04 14:25:09 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:25:09 206 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:25:09 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:25:09 206 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:25:09 206 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00de17c7
+[2020-12-04 14:25:21 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:25:21 200 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:25:21 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:25:21 200 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:25:21 200 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e717e4
+[2020-12-04 14:25:33 198 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:25:33 198 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:25:33 198 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:25:33 198 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:25:33 198 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00301802
+[2020-12-04 14:25:45 202 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:25:45 202 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:25:45 202 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:25:45 202 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:25:45 202 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x0048181e
+[2020-12-04 14:25:57 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:25:57 205 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:25:57 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:25:57 205 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:25:57 205 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x003f183c
+[2020-12-04 14:26:09 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:26:09 200 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:26:09 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:26:09 200 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:26:09 200 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00751859
+[2020-12-04 14:26:21 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:26:21 200 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:26:21 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:26:21 200 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:26:21 200 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00551876
+[2020-12-04 14:26:33 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:26:33 200 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:26:33 200 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:26:33 200 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:26:33 200 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00d51893
+[2020-12-04 14:26:45 203 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:26:45 203 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:26:45 203 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:26:45 203 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:26:45 203 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e418b0
+[2020-12-04 14:26:57 199 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:26:57 199 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:26:57 199 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:26:57 200 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:26:57 200 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e318ce
+[2020-12-04 14:27:09 204 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:27:09 204 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:27:09 204 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:27:09 204 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:27:09 204 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00e818eb
+[2020-12-04 14:27:21 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:27:21 205 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:27:21 205 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:27:21 205 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:27:21 205 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00191907
+[2020-12-04 14:27:33 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer begin
+[2020-12-04 14:27:33 206 4e24] <app>[   RHMDApi][   HeartBeat] - Send HeartBeat
+[2020-12-04 14:27:33 206 4e24] <app>[   RHMDApi][   HeartBeat] - OnTimer end
+[2020-12-04 14:27:33 215 3eec] <app>[   RHMDApi][      DataOK] - receive HeartBeat
+[2020-12-04 14:27:33 215 3eec] <app>[   RHMDApi][   HeartBeat] - Set HeartBeat Timer 0x00461925

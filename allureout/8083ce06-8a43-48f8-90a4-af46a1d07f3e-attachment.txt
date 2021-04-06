@@ -1,0 +1,1 @@
+2021-04-02 15:54:36,069--test_d5_Riskcontrolprogram.py--hanghao:79--INFO:产品早盘可交易品种/合约的用例通过

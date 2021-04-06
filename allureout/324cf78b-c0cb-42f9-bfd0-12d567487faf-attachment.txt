@@ -1,0 +1,3 @@
+INFO     test_logs:test_a8_the_customer_account.py:177 开始测试断言开户成功的用例
+INFO     test_logs:test_a8_the_customer_account.py:184 测试用例通过
+INFO     test_logs:test_a8_the_customer_account.py:32 浏览器关闭

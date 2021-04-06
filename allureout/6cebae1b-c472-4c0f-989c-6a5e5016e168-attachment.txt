@@ -1,0 +1,3 @@
+INFO     test_logs:test_a8_the_customer_account.py:37 开始测试账户开户失败用例
+INFO     test_logs:test_a8_the_customer_account.py:54 预期结果:登录账号不能包含特殊字符，实际结果:登录账号不能包含特殊字符
+INFO     test_logs:test_a8_the_customer_account.py:56 第4条失败测试用例通过

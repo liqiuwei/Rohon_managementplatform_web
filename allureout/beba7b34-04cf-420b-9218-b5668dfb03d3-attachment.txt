@@ -1,0 +1,2 @@
+INFO     test_logs:test_d6_template.py:148 报单限制模板的用例通过
+INFO     test_logs:test_d6_template.py:27 浏览器关闭

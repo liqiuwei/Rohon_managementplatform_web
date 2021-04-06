@@ -1,0 +1,1 @@
+2021-04-02 15:55:36,287--test_d5_Riskcontrolprogram.py--hanghao:194--INFO:产品总结报告的用例通过

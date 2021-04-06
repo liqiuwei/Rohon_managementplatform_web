@@ -1,0 +1,2 @@
+INFO     test_logs:test_d5_Riskcontrolprogram.py:15 打开浏览器
+INFO     test_logs:test_d5_Riskcontrolprogram.py:36 编辑产品的用例通过

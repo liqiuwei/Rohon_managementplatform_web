@@ -1,0 +1,5 @@
+INFO     test_logs:test_a2_newbrokeragefirms.py:60 李秋维焊缪蘧朕带眄公司
+INFO     test_logs:test_a2_newbrokeragefirms.py:61 开始测试新增经纪公司成功用例
+INFO     test_logs:test_a2_newbrokeragefirms.py:75 预期结果:李秋维焊缪蘧朕带眄公司，实际结果:李秋维焊缪蘧朕带眄公司
+INFO     test_logs:test_a2_newbrokeragefirms.py:77 测试用例通过
+INFO     test_logs:test_a2_newbrokeragefirms.py:32 浏览器关闭

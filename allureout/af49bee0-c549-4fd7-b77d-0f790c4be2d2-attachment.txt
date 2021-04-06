@@ -1,0 +1,3 @@
+INFO     test_logs:test_e1_instrumentmargin.py:17 打开浏览器
+INFO     test_logs:test_e1_instrumentmargin.py:37 期货合约默认保证金率配置的用例用例通过
+INFO     test_logs:test_e1_instrumentmargin.py:27 浏览器关闭

@@ -1,0 +1,4 @@
+INFO     test_logs:test_e4_non_tradableallocation.py:13 打开浏览器
+INFO     test_logs:test_e4_non_tradableallocation.py:25 开始测试全局不可交易品种/合约配置成功的用例
+INFO     test_logs:test_e4_non_tradableallocation.py:32 测试全局可交易品种/合约配置用例通过
+INFO     test_logs:test_e4_non_tradableallocation.py:21 浏览器关闭

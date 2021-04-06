@@ -1,0 +1,4 @@
+INFO     test_logs:test_a3_increaseproduct.py:24 打开浏览器
+INFO     test_logs:test_a3_increaseproduct.py:37 开始测试新增新增产品失败用例
+INFO     test_logs:test_a3_increaseproduct.py:46 预期结果:产品名称长度不能大于64个字节(中文占3个字节)，实际结果:产品名称长度不能大于64个字节(中文占3个字节)
+INFO     test_logs:test_a3_increaseproduct.py:48 第1条失败测试用例通过

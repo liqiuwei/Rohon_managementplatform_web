@@ -1,0 +1,4 @@
+INFO     test_logs:test_b3_Auditpayment.py:19 打开浏览器
+INFO     test_logs:test_b3_Auditpayment.py:30 登录成功开始测试审核出入金成功得用例
+INFO     test_logs:test_b3_Auditpayment.py:33 预期结果:出入金成功，实际结果:出入金成功
+INFO     test_logs:test_b3_Auditpayment.py:35 入金审核通过

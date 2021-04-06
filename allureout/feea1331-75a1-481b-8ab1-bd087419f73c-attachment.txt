@@ -1,0 +1,3 @@
+INFO     test_logs:test_a4_Riskcontrolaccount.py:55 开始测试添加风控账户成功的用例
+INFO     test_logs:test_a4_Riskcontrolaccount.py:64 测试用例通过
+INFO     test_logs:test_a4_Riskcontrolaccount.py:33 浏览器关闭

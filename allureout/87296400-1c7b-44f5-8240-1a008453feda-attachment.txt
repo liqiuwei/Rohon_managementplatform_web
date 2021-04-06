@@ -1,0 +1,2 @@
+INFO     test_logs:test_e2_Futures_allocation.py:70 期货品种保证金率配置-相对资金账户百分比加收的用例通过
+INFO     test_logs:test_e2_Futures_allocation.py:28 浏览器关闭

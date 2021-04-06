@@ -1,0 +1,4 @@
+INFO     test_logs:test_a2_newbrokeragefirms.py:24 打开浏览器
+INFO     test_logs:test_a2_newbrokeragefirms.py:40 开始测试新增新增经纪公司失败用例
+INFO     test_logs:test_a2_newbrokeragefirms.py:50 预期结果:请配置正确的行情服务器地址，实际结果:请配置正确的行情服务器地址
+INFO     test_logs:test_a2_newbrokeragefirms.py:52 第1条失败测试用例通过

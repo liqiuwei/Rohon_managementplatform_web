@@ -1,0 +1,1402 @@
+[2020-11-23 16:34:21 734 4570] <app> - rh_api_init 0:000000
+[2020-11-23 16:34:24 578 4570] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 16:34:24 578 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 16:34:24 578 4570] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 16:34:24 578 4570] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 16:34:24 578 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 16:34:24 578 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 16:34:24 578 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 16:34:24 579 4570] Load RohonHardDriver.dll failed 126
+[2020-11-23 16:34:24 579 4570] Load FemasDLL failed 126
+[2020-11-23 16:34:27 123 4570] <app>[RohonTraderApi] - size=264
+[2020-11-23 16:34:27 123 4570] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 16:34:27 123 4570] <app>[    TradeApi] - RegisterSpi [0x01d68f68]
+[2020-11-23 16:34:27 123 4570] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 16:34:27 123 4570] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 16:34:27 123 4570] <app>[    TradeApi] - RegisterFront tcp://192.168.1.145:40001
+[2020-11-23 16:34:27 123 4570] <app>[    TradeApi] - Init
+[2020-11-23 16:34:27 181 2b0c] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 16:34:27 181 2b0c] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 16:34:27 181 4570] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 16:34:27 181 4570] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 16:34:27 182 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:34:27 182 2b0c] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 16:34:27 182 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:34:37 336 4570] <app>[    TradeApi] - Release-->
+[2020-11-23 16:34:37 336 4570] <app>[    TradeApi] - Release<--
+[2020-11-23 16:34:37 338 4570] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 16:34:37 338 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 16:34:37 338 4570] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 16:34:37 338 4570] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 16:34:37 338 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 16:34:37 338 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 16:34:37 338 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 16:34:37 338 4570] Load RohonHardDriver.dll failed 126
+[2020-11-23 16:34:37 338 4570] Load FemasDLL failed 126
+[2020-11-23 16:34:38 730 4570] <app>[RohonTraderApi] - size=264
+[2020-11-23 16:34:38 730 4570] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 16:34:38 730 4570] <app>[    TradeApi] - RegisterSpi [0x01d68f68]
+[2020-11-23 16:34:38 730 4570] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 16:34:38 730 4570] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 16:34:38 731 4570] <app>[    TradeApi] - RegisterFront tcp://192.168.1.145:40001
+[2020-11-23 16:34:38 731 4570] <app>[    TradeApi] - Init
+[2020-11-23 16:34:38 805 2b0c] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 16:34:38 805 2b0c] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 16:34:38 805 4570] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 16:34:38 805 4570] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 16:34:38 805 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:34:38 806 2b0c] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 16:34:38 806 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:34:50 807 4564] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:34:50 807 4564] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:34:50 807 4564] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:34:50 808 2b0c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:34:50 808 2b0c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00080009
+[2020-11-23 16:34:54 721 4570] <app>[    TradeApi] - Release-->
+[2020-11-23 16:34:54 721 4570] <app>[    TradeApi] - Release<--
+[2020-11-23 16:34:54 723 4570] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 16:34:54 723 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 16:34:54 723 4570] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 16:34:54 723 4570] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 16:34:54 723 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 16:34:54 723 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 16:34:54 723 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 16:34:54 723 4570] Load RohonHardDriver.dll failed 126
+[2020-11-23 16:34:54 723 4570] Load FemasDLL failed 126
+[2020-11-23 16:34:56 082 4570] <app>[RohonTraderApi] - size=264
+[2020-11-23 16:34:56 082 4570] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 16:34:56 082 4570] <app>[    TradeApi] - RegisterSpi [0x01d68f68]
+[2020-11-23 16:34:56 082 4570] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 16:34:56 082 4570] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 16:34:56 082 4570] <app>[    TradeApi] - RegisterFront tcp://192.168.1.145:40001
+[2020-11-23 16:34:56 082 4570] <app>[    TradeApi] - Init
+[2020-11-23 16:34:56 109 2b0c] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 16:34:56 110 2b0c] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 16:34:56 110 4570] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 16:34:56 110 4570] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 16:34:56 110 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:34:56 110 2b0c] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 16:34:56 110 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:35:08 108 4564] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:35:08 108 4564] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:35:08 108 4564] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:35:08 108 2b0c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:35:08 108 2b0c] <app>[   HeartBeat] - Set HeartBeat Timer 0x000d000e
+[2020-11-23 16:35:20 103 4564] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:35:20 103 4564] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:35:20 103 4564] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:35:20 103 2b0c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:35:20 103 2b0c] <app>[   HeartBeat] - Set HeartBeat Timer 0x000f0010
+[2020-11-23 16:35:32 108 4564] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:35:32 108 4564] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:35:32 108 4564] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:35:32 108 2b0c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:35:32 109 2b0c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00110012
+[2020-11-23 16:35:44 109 4564] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:35:44 109 4564] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:35:44 109 4564] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:35:44 109 2b0c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:35:44 109 2b0c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00130014
+[2020-11-23 16:35:56 111 4564] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:35:56 111 4564] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:35:56 111 4564] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:35:56 111 2b0c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:35:56 112 2b0c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00150016
+[2020-11-23 16:35:56 760 4570] <app>[    TradeApi] - Release-->
+[2020-11-23 16:35:56 760 4570] <app>[    TradeApi] - Release<--
+[2020-11-23 16:35:56 762 4570] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 16:35:56 762 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 16:35:56 762 4570] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 16:35:56 762 4570] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 16:35:56 762 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 16:35:56 762 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 16:35:56 762 4570] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 16:35:56 762 4570] Load RohonHardDriver.dll failed 126
+[2020-11-23 16:35:56 762 4570] Load FemasDLL failed 126
+[2020-11-23 16:35:58 113 4570] <app>[RohonTraderApi] - size=264
+[2020-11-23 16:35:58 113 4570] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 16:35:58 113 4570] <app>[    TradeApi] - RegisterSpi [0x01d68f68]
+[2020-11-23 16:35:58 113 4570] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 16:35:58 113 4570] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 16:35:58 113 4570] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-23 16:35:58 114 4570] <app>[    TradeApi] - Init
+[2020-11-23 16:35:58 214 2b0c] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 16:35:58 214 2b0c] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 16:35:58 214 4570] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 16:35:58 214 4570] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 16:35:58 215 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:35:58 215 2b0c] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 16:35:58 215 2b0c] <app>[  TcpHandler] - Login success, [123456][Rohon][20201123][16:35:55][融航柜台系统] 1606118751 8[0] [16:35:54][16:35:54][16:35:54][16:35:54][16:35:54]
+[2020-11-23 16:35:58 221 2b0c] <app>[    TradeApi] - ReqQrySettlementInfo
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - Login success, Update user system information
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, kingstar SubmitKingStarUserSystemInfo.
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, HS SubmitHSUserSystemInfo
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - OnRtnInstrumentStatus [SHFE][]['2'][]
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - OnRtnInstrumentStatus [CFFEX][]['2'][]
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - OnRtnInstrumentStatus [DCE][]['2'][]
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - OnRtnInstrumentStatus [CZCE][]['2'][]
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - OnRtnInstrumentStatus [INE][]['
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - OnRtnTradingNotice
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:35:58 242 2b0c] <app>[  TcpHandler] - OnRspQrySettlementInfo
+[2020-11-23 16:35:58 243 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:10 243 4564] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:36:10 243 4564] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:36:10 243 4564] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:36:10 243 2b0c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:36:10 243 2b0c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00300031
+[2020-11-23 16:36:18 308 4570] <app>[    TradeApi] - ReqSettlementInfoConfirm
+[2020-11-23 16:36:18 310 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:18 310 2b0c] <app>[  TcpHandler] - OnRspSettlementInfoConfirm
+[2020-11-23 16:36:18 310 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 465 4564] <app>[    TradeApi] - ReqQryInstrument
+[2020-11-23 16:36:19 465 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 466 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 468 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 468 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 468 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 470 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 470 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 470 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 471 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 471 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 471 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 472 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 472 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 472 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 473 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 473 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 473 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 474 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 474 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 474 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 475 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 475 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 475 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 476 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 476 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 476 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 477 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 477 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 477 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 478 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 478 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 478 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 479 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 479 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 479 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 480 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 480 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 480 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 481 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 481 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 481 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 483 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 483 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 483 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 484 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 484 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 484 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 485 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 485 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 485 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 487 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 487 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 487 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 488 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 488 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 488 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 489 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 489 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 489 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 490 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 490 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 490 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 492 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 492 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 492 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 493 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 493 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 493 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 494 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 494 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 494 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 495 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 495 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 495 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 496 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 496 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 496 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 497 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 497 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 497 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 498 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 498 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 498 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 499 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 499 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 499 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 500 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 500 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 500 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 501 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 501 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 501 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 502 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 502 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 502 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 503 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 503 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 503 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 505 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 505 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 505 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 506 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 506 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 506 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 507 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 507 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 507 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 508 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 508 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 508 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 509 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 509 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 509 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 510 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 510 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 510 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 511 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 511 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 511 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 512 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 512 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 512 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 513 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 513 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 513 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 514 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 514 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 514 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 515 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 515 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 515 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 517 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 517 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 517 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 518 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 518 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 518 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 519 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 519 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 519 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 520 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 520 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 520 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 521 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 521 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 521 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 523 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 523 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 523 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 524 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 524 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 524 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 525 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 525 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 525 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 526 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 526 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 526 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 528 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 528 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 528 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 529 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 529 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 529 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 530 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 530 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 530 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 531 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 531 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 531 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 533 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 533 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 533 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 534 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 534 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 534 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 535 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 535 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 535 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 536 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 536 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 536 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 538 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 538 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 538 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 539 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 539 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 539 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 540 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 540 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 540 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 541 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 541 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 541 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 542 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 542 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 542 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 544 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 544 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 544 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 545 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 545 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 545 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 546 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 546 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 546 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 547 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 547 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 547 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 549 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 549 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 549 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 550 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 550 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 550 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 551 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 551 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 551 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 552 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 552 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 552 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 554 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 554 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 554 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 555 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 555 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 555 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 556 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 556 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 556 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 557 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 557 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 557 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 558 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 558 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 558 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 560 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 560 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 560 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 561 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 561 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 561 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 562 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 562 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 562 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 563 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 563 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 563 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 565 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 565 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 565 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 566 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 566 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 566 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 567 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 567 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 567 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 568 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 568 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 568 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 570 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 570 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 570 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 571 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 571 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 571 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 572 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 572 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 572 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 573 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 573 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 573 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 575 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 575 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 575 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 576 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 576 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 576 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 577 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 577 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 577 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 578 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 578 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 578 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 579 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 579 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 579 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 581 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 581 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 581 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 582 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 582 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 582 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 583 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 583 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 583 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 584 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 584 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 584 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 586 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 586 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 586 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 587 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 587 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 587 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 588 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 588 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 588 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 589 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 589 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 589 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 590 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 590 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 590 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 591 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 591 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 591 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 592 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 592 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 592 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 593 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 593 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 593 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 593 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 593 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 593 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 594 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 594 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 594 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 605 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 605 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 605 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 606 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 606 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 606 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 607 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 607 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 607 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 607 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 607 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 607 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 608 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 608 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 608 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 609 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 609 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 609 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 610 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 610 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 610 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 611 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 611 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 611 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 613 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 613 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 613 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 614 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 614 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 614 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 615 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 615 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 615 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 616 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 616 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 616 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 616 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 616 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 616 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 617 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 617 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 617 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 618 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 618 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 618 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 619 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 619 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 619 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 620 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 620 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 620 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 621 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 621 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 621 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 622 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 622 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 622 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 623 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 623 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 623 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 624 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 624 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 624 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 625 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 625 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 625 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 626 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 626 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 626 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 627 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 627 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 627 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 628 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 628 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 628 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 629 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 629 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 629 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 630 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 630 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 630 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 631 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 631 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 631 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 632 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 632 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 632 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 632 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 632 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 632 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 633 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 633 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 633 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 634 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 634 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 634 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 635 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 635 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 635 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 636 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 636 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 636 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 637 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 637 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 637 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 638 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 638 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 638 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 639 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 639 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 639 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 640 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:19 640 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:19 640 2b0c] InsUnZipCache OnRstQryInstrument_Zip
+[2020-11-23 16:36:19 640 2b0c] InsUnZipCache OnRstQryInstrument_Zip 20201123:163222
+[2020-11-23 16:36:19 640 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:26 199 4564] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:36:26 199 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:26 199 2b0c] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:36:26 199 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:27 310 4564] <app>[    RohonApi] - ReqQryBigLegRule
+[2020-11-23 16:36:27 310 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:27 310 2b0c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:36:27 310 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:27 310 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:27 310 2b0c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:36:27 310 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:27 310 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:27 310 2b0c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:36:27 310 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:28 419 4564] <app>[    TradeApi] - ReqQryExchange
+[2020-11-23 16:36:28 420 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:28 420 2b0c] <app>[  TcpHandler] - OnRspQryExchange
+[2020-11-23 16:36:28 420 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:29 524 4564] <app>[    TradeApi] - ReqQryInvestorPositionDetail
+[2020-11-23 16:36:29 526 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:29 526 2b0c] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail
+[2020-11-23 16:36:29 526 2b0c] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail -- [][][]'
+[2020-11-23 16:36:29 526 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:30 636 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:30 636 2b0c] <app>[  TcpHandler] - OnRspQryParkedOrder
+[2020-11-23 16:36:30 636 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:31 745 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:31 745 2b0c] <app>[  TcpHandler] - OnRspQryTerminateOrder
+[2020-11-23 16:36:31 745 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:32 853 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:32 853 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:33 961 4564] <app>[    TradeApi] - ReqQryInvestor
+[2020-11-23 16:36:33 962 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:33 962 2b0c] <app>[  TcpHandler] - OnRspQryInvestor
+[2020-11-23 16:36:33 962 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:35 078 4564] <app>[    TradeApi] - ReqQryOrder
+[2020-11-23 16:36:35 080 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:35 080 2b0c] <app>[  TcpHandler] - OnRspQryOrder
+[2020-11-23 16:36:35 080 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:36 188 4564] <app>[    TradeApi] - ReqQryTrade
+[2020-11-23 16:36:36 191 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:36 191 2b0c] <app>[  TcpHandler] - OnRspQryTrade
+[2020-11-23 16:36:36 191 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:37 293 4564] <app>[    TradeApi] - ReqQryInvestorPositionCombineDetail
+[2020-11-23 16:36:37 296 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:37 296 2b0c] <app>[  TcpHandler] - OnRspQryInvestorPositionCombineDetail
+[2020-11-23 16:36:37 296 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:38 403 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:38 403 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:40 640 4564] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:36:40 641 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:40 641 2b0c] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:36:40 641 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:41 742 2b0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:36:41 743 2b0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:36:53 744 4564] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:36:53 744 4564] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:36:53 744 4564] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:36:53 745 2b0c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:36:53 745 2b0c] <app>[   HeartBeat] - Set HeartBeat Timer 0x0020011f
+[2020-11-23 16:36:53 907 4570] <app>[    TradeApi] - Release-->
+[2020-11-23 16:36:53 907 4570] <app>[    TradeApi] - Release<--
+[2020-11-23 16:37:02 661 3b20] <app> - rh_api_init 20201123:163222
+[2020-11-23 16:37:05 475 3b20] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 16:37:05 475 3b20] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 16:37:05 475 3b20] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 16:37:05 475 3b20] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 16:37:05 475 3b20] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 16:37:05 475 3b20] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 16:37:05 475 3b20] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 16:37:05 475 3b20] Load RohonHardDriver.dll failed 126
+[2020-11-23 16:37:05 475 3b20] Load FemasDLL failed 126
+[2020-11-23 16:37:07 872 3b20] <app>[RohonTraderApi] - size=264
+[2020-11-23 16:37:07 872 3b20] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 16:37:07 872 3b20] <app>[    TradeApi] - RegisterSpi [0x01e08f60]
+[2020-11-23 16:37:07 872 3b20] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 16:37:07 872 3b20] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 16:37:07 872 3b20] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-23 16:37:07 872 3b20] <app>[    TradeApi] - Init
+[2020-11-23 16:37:07 914 4a0c] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 16:37:07 914 4a0c] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 16:37:07 914 3b20] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 16:37:07 914 3b20] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 16:37:07 916 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:07 916 4a0c] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 16:37:07 916 4a0c] <app>[  TcpHandler] - Login success, [123456][Rohon][20201123][16:37:04][融航柜台系统] 1606118751 9[0] [16:37:04][16:37:04][16:37:04][16:37:04][16:37:04]
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - Login success, Update user system information
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, kingstar SubmitKingStarUserSystemInfo.
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, HS SubmitHSUserSystemInfo
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - OnRtnInstrumentStatus [SHFE][]['2'][]
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - OnRtnInstrumentStatus [CFFEX][]['2'][]
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - OnRtnInstrumentStatus [DCE][]['2'][]
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - OnRtnInstrumentStatus [CZCE][]['2'][]
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - OnRtnInstrumentStatus [INE][]['
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:07 927 4a0c] <app>[  TcpHandler] - OnRtnTradingNotice
+[2020-11-23 16:37:09 026 451c] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:37:09 027 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:09 027 4a0c] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:37:09 027 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:10 133 451c] <app>[    RohonApi] - ReqQryBigLegRule
+[2020-11-23 16:37:10 134 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:10 134 4a0c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:37:10 134 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:10 134 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:10 134 4a0c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:37:10 134 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:10 134 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:10 134 4a0c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:37:10 134 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:11 242 451c] <app>[    TradeApi] - ReqQryExchange
+[2020-11-23 16:37:11 242 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:11 242 4a0c] <app>[  TcpHandler] - OnRspQryExchange
+[2020-11-23 16:37:11 242 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:12 358 451c] <app>[    TradeApi] - ReqQryInvestorPositionDetail
+[2020-11-23 16:37:12 361 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:12 361 4a0c] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail
+[2020-11-23 16:37:12 361 4a0c] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail -- [][][]'
+[2020-11-23 16:37:12 361 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:13 467 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:13 467 4a0c] <app>[  TcpHandler] - OnRspQryParkedOrder
+[2020-11-23 16:37:13 467 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:14 574 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:14 574 4a0c] <app>[  TcpHandler] - OnRspQryTerminateOrder
+[2020-11-23 16:37:14 574 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:15 682 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:15 682 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:16 798 451c] <app>[    TradeApi] - ReqQryInvestor
+[2020-11-23 16:37:16 798 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:16 798 4a0c] <app>[  TcpHandler] - OnRspQryInvestor
+[2020-11-23 16:37:16 799 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:17 907 451c] <app>[    TradeApi] - ReqQryOrder
+[2020-11-23 16:37:17 909 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:17 909 4a0c] <app>[  TcpHandler] - OnRspQryOrder
+[2020-11-23 16:37:17 909 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:19 017 451c] <app>[    TradeApi] - ReqQryTrade
+[2020-11-23 16:37:19 019 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:19 019 4a0c] <app>[  TcpHandler] - OnRspQryTrade
+[2020-11-23 16:37:19 019 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:20 117 451c] <app>[    TradeApi] - ReqQryInvestorPositionCombineDetail
+[2020-11-23 16:37:20 119 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:20 119 4a0c] <app>[  TcpHandler] - OnRspQryInvestorPositionCombineDetail
+[2020-11-23 16:37:20 119 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:21 232 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:21 232 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:22 336 451c] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:37:22 336 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:22 336 4a0c] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:37:22 336 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:23 455 4a0c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:23 455 4a0c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:28 838 3b20] <app>[    TradeApi] - Release-->
+[2020-11-23 16:37:28 838 3b20] <app>[    TradeApi] - Release<--
+[2020-11-23 16:37:43 047 2424] <app> - rh_api_init 20201123:163222
+[2020-11-23 16:37:45 756 2424] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 16:37:45 756 2424] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 16:37:45 756 2424] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 16:37:45 756 2424] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 16:37:45 756 2424] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 16:37:45 756 2424] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 16:37:45 756 2424] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 16:37:45 756 2424] Load RohonHardDriver.dll failed 126
+[2020-11-23 16:37:45 756 2424] Load FemasDLL failed 126
+[2020-11-23 16:37:48 153 2424] <app>[RohonTraderApi] - size=264
+[2020-11-23 16:37:48 153 2424] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 16:37:48 153 2424] <app>[    TradeApi] - RegisterSpi [0x01e98f68]
+[2020-11-23 16:37:48 153 2424] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 16:37:48 153 2424] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 16:37:48 153 2424] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-23 16:37:48 153 2424] <app>[    TradeApi] - Init
+[2020-11-23 16:37:48 207 4184] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 16:37:48 207 4184] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 16:37:48 207 2424] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 16:37:48 207 2424] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 16:37:48 207 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:48 207 4184] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 16:37:48 207 4184] <app>[  TcpHandler] - Login success, [123456][Rohon][20201123][16:37:45][融航柜台系统] 1606118751 10[0] [16:37:44][16:37:44][16:37:44][16:37:44][16:37:44]
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - Login success, Update user system information
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, kingstar SubmitKingStarUserSystemInfo.
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, HS SubmitHSUserSystemInfo
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - OnRtnInstrumentStatus [SHFE][]['2'][]
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - OnRtnInstrumentStatus [CFFEX][]['2'][]
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - OnRtnInstrumentStatus [DCE][]['2'][]
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - OnRtnInstrumentStatus [CZCE][]['2'][]
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - OnRtnInstrumentStatus [INE][]['
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:48 219 4184] <app>[  TcpHandler] - OnRtnTradingNotice
+[2020-11-23 16:37:49 323 3fc8] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:37:49 324 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:49 324 4184] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:37:49 324 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:50 435 3fc8] <app>[    RohonApi] - ReqQryBigLegRule
+[2020-11-23 16:37:50 435 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:50 435 4184] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:37:50 435 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:50 435 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:50 435 4184] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:37:50 435 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:50 435 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:50 435 4184] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:37:50 435 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:51 543 3fc8] <app>[    TradeApi] - ReqQryExchange
+[2020-11-23 16:37:51 543 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:51 544 4184] <app>[  TcpHandler] - OnRspQryExchange
+[2020-11-23 16:37:51 544 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:52 652 3fc8] <app>[    TradeApi] - ReqQryInvestorPositionDetail
+[2020-11-23 16:37:52 654 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:52 654 4184] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail
+[2020-11-23 16:37:52 654 4184] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail -- [][][]'
+[2020-11-23 16:37:52 654 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:53 761 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:53 761 4184] <app>[  TcpHandler] - OnRspQryParkedOrder
+[2020-11-23 16:37:53 761 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:54 872 4184] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:37:54 872 4184] <app>[  TcpHandler] - OnRspQryTerminateOrder
+[2020-11-23 16:37:54 872 4184] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:37:55 252 2424] <app>[    TradeApi] - Release-->
+[2020-11-23 16:37:55 252 2424] <app>[    TradeApi] - Release<--
+[2020-11-23 16:38:06 472 48b0] <app> - rh_api_init 20201123:163222
+[2020-11-23 16:38:09 200 48b0] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 16:38:09 200 48b0] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 16:38:09 200 48b0] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 16:38:09 200 48b0] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 16:38:09 200 48b0] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 16:38:09 200 48b0] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 16:38:09 200 48b0] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 16:38:09 200 48b0] Load RohonHardDriver.dll failed 126
+[2020-11-23 16:38:09 200 48b0] Load FemasDLL failed 126
+[2020-11-23 16:38:11 573 48b0] <app>[RohonTraderApi] - size=264
+[2020-11-23 16:38:11 573 48b0] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 16:38:11 573 48b0] <app>[    TradeApi] - RegisterSpi [0x01c28f60]
+[2020-11-23 16:38:11 573 48b0] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 16:38:11 573 48b0] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 16:38:11 573 48b0] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-23 16:38:11 573 48b0] <app>[    TradeApi] - Init
+[2020-11-23 16:38:11 617 4604] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 16:38:11 617 4604] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 16:38:11 617 48b0] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 16:38:11 617 48b0] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 16:38:11 618 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:11 618 4604] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 16:38:11 618 4604] <app>[  TcpHandler] - Login success, [123456][Rohon][20201123][16:38:08][融航柜台系统] 1606118751 11[0] [16:38:08][16:38:08][16:38:08][16:38:08][16:38:08]
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - Login success, Update user system information
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, kingstar SubmitKingStarUserSystemInfo.
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, HS SubmitHSUserSystemInfo
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - OnRtnInstrumentStatus [SHFE][]['2'][]
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - OnRtnInstrumentStatus [CFFEX][]['2'][]
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - OnRtnInstrumentStatus [DCE][]['2'][]
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - OnRtnInstrumentStatus [CZCE][]['2'][]
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - OnRtnInstrumentStatus [INE][]['
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:11 630 4604] <app>[  TcpHandler] - OnRtnTradingNotice
+[2020-11-23 16:38:12 730 0e00] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:38:12 731 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:12 731 4604] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:38:12 731 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:13 835 0e00] <app>[    RohonApi] - ReqQryBigLegRule
+[2020-11-23 16:38:13 836 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:13 836 4604] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:38:13 836 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:13 836 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:13 836 4604] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:38:13 836 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:13 836 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:13 836 4604] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:38:13 836 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:14 949 0e00] <app>[    TradeApi] - ReqQryExchange
+[2020-11-23 16:38:14 950 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:14 950 4604] <app>[  TcpHandler] - OnRspQryExchange
+[2020-11-23 16:38:14 950 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:16 056 0e00] <app>[    TradeApi] - ReqQryInvestorPositionDetail
+[2020-11-23 16:38:16 058 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:16 058 4604] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail
+[2020-11-23 16:38:16 058 4604] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail -- [][][]'
+[2020-11-23 16:38:16 058 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:17 175 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:17 175 4604] <app>[  TcpHandler] - OnRspQryParkedOrder
+[2020-11-23 16:38:17 175 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:18 275 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:18 275 4604] <app>[  TcpHandler] - OnRspQryTerminateOrder
+[2020-11-23 16:38:18 275 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:19 386 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:19 386 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:20 491 0e00] <app>[    TradeApi] - ReqQryInvestor
+[2020-11-23 16:38:20 492 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:20 492 4604] <app>[  TcpHandler] - OnRspQryInvestor
+[2020-11-23 16:38:20 492 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:21 606 0e00] <app>[    TradeApi] - ReqQryOrder
+[2020-11-23 16:38:21 607 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:21 607 4604] <app>[  TcpHandler] - OnRspQryOrder
+[2020-11-23 16:38:21 607 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:22 717 0e00] <app>[    TradeApi] - ReqQryTrade
+[2020-11-23 16:38:22 719 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:22 719 4604] <app>[  TcpHandler] - OnRspQryTrade
+[2020-11-23 16:38:22 719 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:23 819 0e00] <app>[    TradeApi] - ReqQryInvestorPositionCombineDetail
+[2020-11-23 16:38:23 821 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:23 821 4604] <app>[  TcpHandler] - OnRspQryInvestorPositionCombineDetail
+[2020-11-23 16:38:23 821 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:24 941 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:24 941 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:26 042 0e00] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:38:26 043 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:26 043 4604] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:38:26 043 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:27 153 4604] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:27 153 4604] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:39 155 0e00] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:38:39 155 0e00] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:38:39 155 0e00] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:38:39 156 4604] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:38:39 156 4604] <app>[   HeartBeat] - Set HeartBeat Timer 0x00570058
+[2020-11-23 16:38:42 674 48b0] <app>[    TradeApi] - Release-->
+[2020-11-23 16:38:42 675 48b0] <app>[    TradeApi] - Release<--
+[2020-11-23 16:38:45 287 0fd0] <app> - rh_api_init 20201123:163222
+[2020-11-23 16:38:47 965 0fd0] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 16:38:47 965 0fd0] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 16:38:47 965 0fd0] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 16:38:47 965 0fd0] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 16:38:47 965 0fd0] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 16:38:47 965 0fd0] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 16:38:47 965 0fd0] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 16:38:47 966 0fd0] Load RohonHardDriver.dll failed 126
+[2020-11-23 16:38:47 966 0fd0] Load FemasDLL failed 126
+[2020-11-23 16:38:50 356 0fd0] <app>[RohonTraderApi] - size=264
+[2020-11-23 16:38:50 356 0fd0] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 16:38:50 356 0fd0] <app>[    TradeApi] - RegisterSpi [0x01d68f58]
+[2020-11-23 16:38:50 356 0fd0] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 16:38:50 356 0fd0] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 16:38:50 356 0fd0] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-23 16:38:50 356 0fd0] <app>[    TradeApi] - Init
+[2020-11-23 16:38:50 433 418c] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 16:38:50 433 418c] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 16:38:50 434 0fd0] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 16:38:50 434 0fd0] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 16:38:50 435 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:50 435 418c] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 16:38:50 435 418c] <app>[  TcpHandler] - Login success, [123456][Rohon][20201123][16:38:47][融航柜台系统] 1606118751 12[0] [16:38:47][16:38:47][16:38:47][16:38:47][16:38:47]
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - Login success, Update user system information
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, kingstar SubmitKingStarUserSystemInfo.
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, HS SubmitHSUserSystemInfo
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - OnRtnInstrumentStatus [SHFE][]['2'][]
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - OnRtnInstrumentStatus [CFFEX][]['2'][]
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - OnRtnInstrumentStatus [DCE][]['2'][]
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - OnRtnInstrumentStatus [CZCE][]['2'][]
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - OnRtnInstrumentStatus [INE][]['
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:50 446 418c] <app>[  TcpHandler] - OnRtnTradingNotice
+[2020-11-23 16:38:51 558 2b4c] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:38:51 559 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:51 559 418c] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:38:51 559 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:52 668 2b4c] <app>[    RohonApi] - ReqQryBigLegRule
+[2020-11-23 16:38:52 669 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:52 669 418c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:38:52 670 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:52 670 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:52 670 418c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:38:52 670 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:52 670 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:52 670 418c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:38:52 671 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:53 779 2b4c] <app>[    TradeApi] - ReqQryExchange
+[2020-11-23 16:38:53 779 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:53 780 418c] <app>[  TcpHandler] - OnRspQryExchange
+[2020-11-23 16:38:53 780 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:54 885 2b4c] <app>[    TradeApi] - ReqQryInvestorPositionDetail
+[2020-11-23 16:38:54 887 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:54 887 418c] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail
+[2020-11-23 16:38:54 887 418c] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail -- [][][]'
+[2020-11-23 16:38:54 887 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:55 997 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:55 997 418c] <app>[  TcpHandler] - OnRspQryParkedOrder
+[2020-11-23 16:38:55 997 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:57 108 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:57 108 418c] <app>[  TcpHandler] - OnRspQryTerminateOrder
+[2020-11-23 16:38:57 108 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:58 222 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:58 222 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:38:59 322 2b4c] <app>[    TradeApi] - ReqQryInvestor
+[2020-11-23 16:38:59 323 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:38:59 323 418c] <app>[  TcpHandler] - OnRspQryInvestor
+[2020-11-23 16:38:59 323 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:00 432 2b4c] <app>[    TradeApi] - ReqQryOrder
+[2020-11-23 16:39:00 434 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:00 434 418c] <app>[  TcpHandler] - OnRspQryOrder
+[2020-11-23 16:39:00 434 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:01 538 2b4c] <app>[    TradeApi] - ReqQryTrade
+[2020-11-23 16:39:01 540 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:01 540 418c] <app>[  TcpHandler] - OnRspQryTrade
+[2020-11-23 16:39:01 540 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:02 651 2b4c] <app>[    TradeApi] - ReqQryInvestorPositionCombineDetail
+[2020-11-23 16:39:02 652 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:02 652 418c] <app>[  TcpHandler] - OnRspQryInvestorPositionCombineDetail
+[2020-11-23 16:39:02 652 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:03 759 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:03 759 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:05 981 2b4c] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:39:05 981 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:05 981 418c] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:39:05 981 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:07 093 418c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:07 093 418c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:19 091 2b4c] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:39:19 091 2b4c] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:39:19 091 2b4c] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:39:19 091 418c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:39:19 091 418c] <app>[   HeartBeat] - Set HeartBeat Timer 0x0059005a
+[2020-11-23 16:39:31 090 2b4c] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:39:31 090 2b4c] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:39:31 090 2b4c] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:39:31 091 418c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:39:31 092 418c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00740075
+[2020-11-23 16:39:33 207 0fd0] <app>[    TradeApi] - Release-->
+[2020-11-23 16:39:33 207 0fd0] <app>[    TradeApi] - Release<--
+[2020-11-23 16:39:36 875 4be4] <app> - rh_api_init 20201123:163222
+[2020-11-23 16:39:39 567 4be4] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 16:39:39 567 4be4] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 16:39:39 567 4be4] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 16:39:39 567 4be4] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 16:39:39 567 4be4] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 16:39:39 567 4be4] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 16:39:39 567 4be4] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 16:39:39 567 4be4] Load RohonHardDriver.dll failed 126
+[2020-11-23 16:39:39 568 4be4] Load FemasDLL failed 126
+[2020-11-23 16:39:41 933 4be4] <app>[RohonTraderApi] - size=264
+[2020-11-23 16:39:41 933 4be4] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 16:39:41 933 4be4] <app>[    TradeApi] - RegisterSpi [0x01df8f58]
+[2020-11-23 16:39:41 933 4be4] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 16:39:41 933 4be4] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 16:39:41 933 4be4] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-23 16:39:41 933 4be4] <app>[    TradeApi] - Init
+[2020-11-23 16:39:42 024 460c] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 16:39:42 024 460c] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 16:39:42 025 4be4] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 16:39:42 025 4be4] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 16:39:42 026 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:42 026 460c] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 16:39:42 026 460c] <app>[  TcpHandler] - Login success, [123456][Rohon][20201123][16:39:38][融航柜台系统] 1606118751 13[0] [16:39:38][16:39:38][16:39:38][16:39:38][16:39:38]
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - Login success, Update user system information
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, kingstar SubmitKingStarUserSystemInfo.
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, HS SubmitHSUserSystemInfo
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - OnRtnInstrumentStatus [SHFE][]['2'][]
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - OnRtnInstrumentStatus [CFFEX][]['2'][]
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:42 037 460c] <app>[  TcpHandler] - OnRtnInstrumentStatus [DCE][]['2'][]
+[2020-11-23 16:39:42 038 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:42 038 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:42 038 460c] <app>[  TcpHandler] - OnRtnInstrumentStatus [CZCE][]['2'][]
+[2020-11-23 16:39:42 038 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:42 038 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:42 038 460c] <app>[  TcpHandler] - OnRtnInstrumentStatus [INE][]['
+[2020-11-23 16:39:42 038 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:42 038 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:42 038 460c] <app>[  TcpHandler] - OnRtnTradingNotice
+[2020-11-23 16:39:43 132 4454] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:39:43 133 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:43 133 460c] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:39:43 133 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:44 246 4454] <app>[    RohonApi] - ReqQryBigLegRule
+[2020-11-23 16:39:44 247 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:44 247 460c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:39:44 247 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:44 247 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:44 247 460c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:39:44 247 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:44 247 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:44 247 460c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:39:44 247 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:45 351 4454] <app>[    TradeApi] - ReqQryExchange
+[2020-11-23 16:39:45 352 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:45 352 460c] <app>[  TcpHandler] - OnRspQryExchange
+[2020-11-23 16:39:45 352 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:46 467 4454] <app>[    TradeApi] - ReqQryInvestorPositionDetail
+[2020-11-23 16:39:46 470 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:46 470 460c] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail
+[2020-11-23 16:39:46 470 460c] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail -- [][][]'
+[2020-11-23 16:39:46 470 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:47 573 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:47 573 460c] <app>[  TcpHandler] - OnRspQryParkedOrder
+[2020-11-23 16:39:47 573 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:48 687 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:48 687 460c] <app>[  TcpHandler] - OnRspQryTerminateOrder
+[2020-11-23 16:39:48 687 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:49 790 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:49 790 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:50 898 4454] <app>[    TradeApi] - ReqQryInvestor
+[2020-11-23 16:39:50 899 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:50 899 460c] <app>[  TcpHandler] - OnRspQryInvestor
+[2020-11-23 16:39:50 899 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:52 010 4454] <app>[    TradeApi] - ReqQryOrder
+[2020-11-23 16:39:52 012 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:52 012 460c] <app>[  TcpHandler] - OnRspQryOrder
+[2020-11-23 16:39:52 012 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:53 117 4454] <app>[    TradeApi] - ReqQryTrade
+[2020-11-23 16:39:53 120 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:53 120 460c] <app>[  TcpHandler] - OnRspQryTrade
+[2020-11-23 16:39:53 120 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:54 228 4454] <app>[    TradeApi] - ReqQryInvestorPositionCombineDetail
+[2020-11-23 16:39:54 229 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:54 229 460c] <app>[  TcpHandler] - OnRspQryInvestorPositionCombineDetail
+[2020-11-23 16:39:54 229 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:55 340 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:55 340 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:57 574 4454] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:39:57 574 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:57 574 460c] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:39:57 574 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:39:58 686 460c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:39:58 686 460c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:40:10 689 4454] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:40:10 689 4454] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:40:10 689 4454] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:40:10 689 460c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:40:10 689 460c] <app>[   HeartBeat] - Set HeartBeat Timer 0x0059005a
+[2020-11-23 16:40:22 687 4454] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:40:22 687 4454] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:40:22 687 4454] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:40:22 687 460c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:40:22 687 460c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00750076
+[2020-11-23 16:40:34 678 4454] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:40:34 678 4454] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:40:34 678 4454] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:40:34 678 460c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:40:34 678 460c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00900091
+[2020-11-23 16:40:46 684 4454] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:40:46 684 4454] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:40:46 684 4454] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:40:46 686 460c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:40:46 686 460c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00ab00ac
+[2020-11-23 16:40:58 678 4454] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:40:58 678 4454] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:40:58 678 4454] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:40:58 678 460c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:40:58 678 460c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00c600c7
+[2020-11-23 16:41:10 684 4454] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:41:10 684 4454] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:41:10 684 4454] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:41:10 684 460c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:41:10 684 460c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00e100e2
+[2020-11-23 16:41:22 678 4454] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:41:22 678 4454] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:41:22 678 4454] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:41:22 679 460c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:41:22 679 460c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00fd00fe
+[2020-11-23 16:41:32 312 4be4] <app>[    TradeApi] - Release-->
+[2020-11-23 16:41:32 312 4be4] <app>[    TradeApi] - Release<--
+[2020-11-23 16:41:43 734 4a70] <app> - rh_api_init 20201123:163222
+[2020-11-23 16:41:46 524 4a70] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 16:41:46 524 4a70] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 16:41:46 524 4a70] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 16:41:46 524 4a70] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 16:41:46 524 4a70] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 16:41:46 524 4a70] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 16:41:46 524 4a70] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 16:41:46 524 4a70] Load RohonHardDriver.dll failed 126
+[2020-11-23 16:41:46 525 4a70] Load FemasDLL failed 126
+[2020-11-23 16:41:48 902 4a70] <app>[RohonTraderApi] - size=264
+[2020-11-23 16:41:48 902 4a70] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 16:41:48 902 4a70] <app>[    TradeApi] - RegisterSpi [0x01e38f68]
+[2020-11-23 16:41:48 902 4a70] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 16:41:48 902 4a70] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 16:41:48 902 4a70] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-23 16:41:48 902 4a70] <app>[    TradeApi] - Init
+[2020-11-23 16:41:48 994 4a8c] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 16:41:48 994 4a8c] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 16:41:48 995 4a70] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 16:41:48 995 4a70] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 16:41:48 996 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:48 996 4a8c] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 16:41:48 996 4a8c] <app>[  TcpHandler] - Login success, [123456][Rohon][20201123][16:41:45][融航柜台系统] 1606118751 14[0] [16:41:45][16:41:45][16:41:45][16:41:45][16:41:45]
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - Login success, Update user system information
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, kingstar SubmitKingStarUserSystemInfo.
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - Login success Rohon_RHTrade_5.20, HS SubmitHSUserSystemInfo
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - OnRtnInstrumentStatus [SHFE][]['2'][]
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - OnRtnInstrumentStatus [CFFEX][]['2'][]
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - OnRtnInstrumentStatus [DCE][]['2'][]
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - OnRtnInstrumentStatus [CZCE][]['2'][]
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - OnRtnInstrumentStatus [INE][]['
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:49 007 4a8c] <app>[  TcpHandler] - OnRtnTradingNotice
+[2020-11-23 16:41:50 118 40c8] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:41:50 119 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:50 119 4a8c] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:41:50 119 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:51 226 40c8] <app>[    RohonApi] - ReqQryBigLegRule
+[2020-11-23 16:41:51 227 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:51 227 4a8c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:41:51 227 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:51 227 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:51 227 4a8c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:41:51 227 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:51 227 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:51 227 4a8c] <app>[  TcpHandler] - OnRspQryBigLegRule
+[2020-11-23 16:41:51 227 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:52 340 40c8] <app>[    TradeApi] - ReqQryExchange
+[2020-11-23 16:41:52 340 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:52 340 4a8c] <app>[  TcpHandler] - OnRspQryExchange
+[2020-11-23 16:41:52 340 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:53 446 40c8] <app>[    TradeApi] - ReqQryInvestorPositionDetail
+[2020-11-23 16:41:53 448 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:53 448 4a8c] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail
+[2020-11-23 16:41:53 448 4a8c] <app>[  TcpHandler] - OnRspQryInvestorPositionDetail -- [][][]'
+[2020-11-23 16:41:53 448 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:54 560 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:54 560 4a8c] <app>[  TcpHandler] - OnRspQryParkedOrder
+[2020-11-23 16:41:54 560 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:55 672 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:55 672 4a8c] <app>[  TcpHandler] - OnRspQryTerminateOrder
+[2020-11-23 16:41:55 673 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:56 775 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:56 775 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:57 892 40c8] <app>[    TradeApi] - ReqQryInvestor
+[2020-11-23 16:41:57 892 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:57 892 4a8c] <app>[  TcpHandler] - OnRspQryInvestor
+[2020-11-23 16:41:57 892 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:41:58 997 40c8] <app>[    TradeApi] - ReqQryOrder
+[2020-11-23 16:41:58 999 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:41:58 999 4a8c] <app>[  TcpHandler] - OnRspQryOrder
+[2020-11-23 16:41:59 000 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:42:00 103 40c8] <app>[    TradeApi] - ReqQryTrade
+[2020-11-23 16:42:00 105 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:42:00 105 4a8c] <app>[  TcpHandler] - OnRspQryTrade
+[2020-11-23 16:42:00 106 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:42:01 211 40c8] <app>[    TradeApi] - ReqQryInvestorPositionCombineDetail
+[2020-11-23 16:42:01 213 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:42:01 213 4a8c] <app>[  TcpHandler] - OnRspQryInvestorPositionCombineDetail
+[2020-11-23 16:42:01 214 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:42:02 323 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:42:02 324 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:42:04 546 40c8] <app>[    TradeApi] - ReqQryTradingAccount
+[2020-11-23 16:42:04 547 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:42:04 547 4a8c] <app>[  TcpHandler] - OnRspQryTradingAccount - [Rohon][123456] 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 0.00 0.00  0.00 0.00 0.00 [20201123] 0  0.00 0.00 0.00 0.00 0.00
+[2020-11-23 16:42:04 547 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:42:05 650 4a8c] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 16:42:05 650 4a8c] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 16:42:17 656 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:42:17 656 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:42:17 656 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:42:17 657 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:42:17 657 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00580059
+[2020-11-23 16:42:29 653 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:42:29 653 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:42:29 653 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:42:29 653 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:42:29 653 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00740075
+[2020-11-23 16:42:41 649 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:42:41 649 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:42:41 649 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:42:41 649 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:42:41 649 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x008f0090
+[2020-11-23 16:42:53 651 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:42:53 651 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:42:53 651 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:42:53 653 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:42:53 653 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00aa00ab
+[2020-11-23 16:43:05 653 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:43:05 653 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:43:05 653 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:43:05 654 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:43:05 654 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00c500c6
+[2020-11-23 16:43:17 657 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:43:17 657 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:43:17 657 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:43:17 657 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:43:17 657 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00e000e1
+[2020-11-23 16:43:29 649 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:43:29 649 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:43:29 649 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:43:29 649 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:43:29 649 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00fc00fd
+[2020-11-23 16:43:41 653 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:43:41 653 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:43:41 653 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:43:41 654 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:43:41 654 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00170117
+[2020-11-23 16:43:53 647 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:43:53 647 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:43:53 647 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:43:53 649 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:43:53 649 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00340133
+[2020-11-23 16:44:05 657 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:44:05 657 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:44:05 657 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:44:05 657 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:44:05 657 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x0050014e
+[2020-11-23 16:44:17 656 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:44:17 656 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:44:17 656 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:44:17 657 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:44:17 657 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x006a0169
+[2020-11-23 16:44:29 651 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:44:29 651 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:44:29 651 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:44:29 652 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:44:29 652 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00850184
+[2020-11-23 16:44:41 656 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:44:41 656 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:44:41 656 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:44:41 657 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:44:41 657 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00a1019f
+[2020-11-23 16:44:53 649 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:44:53 649 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:44:53 649 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:44:53 649 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:44:53 649 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00b401bb
+[2020-11-23 16:45:05 654 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:45:05 654 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:45:05 654 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:45:05 655 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:45:05 655 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00d701d5
+[2020-11-23 16:45:17 649 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:45:17 649 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:45:17 649 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:45:17 649 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:45:17 649 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x00f201f0
+[2020-11-23 16:45:29 658 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:45:29 658 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:45:29 658 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:45:29 660 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:45:29 660 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x000e020c
+[2020-11-23 16:45:41 654 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:45:41 654 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:45:41 654 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:45:41 654 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:45:41 654 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x002a0227
+[2020-11-23 16:45:53 649 40c8] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 16:45:53 649 40c8] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 16:45:53 649 40c8] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 16:45:53 649 4a8c] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 16:45:53 649 4a8c] <app>[   HeartBeat] - Set HeartBeat Timer 0x003d0242
+[2020-11-23 16:46:04 720 4a70] <app>[    TradeApi] - Release-->
+[2020-11-23 16:46:04 720 4a70] <app>[    TradeApi] - Release<--

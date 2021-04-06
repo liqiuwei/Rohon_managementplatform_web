@@ -1,0 +1,2 @@
+INFO     test_logs:test_b6_productpositions.py:16 打开浏览器
+INFO     test_logs:test_b6_productpositions.py:39 期货品种持仓限制配置的用例通过

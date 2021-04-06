@@ -1,0 +1,5 @@
+INFO     test_logs:test_a1_login.py:49 开始测试登录成功用例
+INFO     test_logs:test_a1_login.py:55 预期结果:修改密码，实际结果:修改密码
+INFO     test_logs:test_a1_login.py:57 测试用例通过
+INFO     test_logs:test_a1_login.py:58 登录成功
+INFO     test_logs:test_a1_login.py:28 浏览器关闭

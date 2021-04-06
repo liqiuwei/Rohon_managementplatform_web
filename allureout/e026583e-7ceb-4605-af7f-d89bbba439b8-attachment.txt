@@ -1,0 +1,1 @@
+INFO     test_logs:test_d5_Riskcontrolprogram.py:123 平今转开仓的用例通过

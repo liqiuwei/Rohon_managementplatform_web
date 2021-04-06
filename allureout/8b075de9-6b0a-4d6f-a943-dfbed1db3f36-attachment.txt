@@ -1,0 +1,2 @@
+2021-04-02 15:58:38,257--test_e2_Futures_allocation.py--hanghao:70--INFO:期货品种保证金率配置-相对资金账户百分比加收的用例通过
+2021-04-02 15:58:40,361--test_e2_Futures_allocation.py--hanghao:28--INFO:浏览器关闭

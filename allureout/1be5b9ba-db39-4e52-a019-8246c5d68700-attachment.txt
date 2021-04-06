@@ -1,0 +1,3 @@
+INFO     test_logs:test_a6_newclientregister.py:36 开始测试新增账户开户失败用例
+INFO     test_logs:test_a6_newclientregister.py:49 预期结果:输入的证件号号码不合法！，实际结果:输入的证件号号码不合法！
+INFO     test_logs:test_a6_newclientregister.py:51 第5条失败测试用例通过

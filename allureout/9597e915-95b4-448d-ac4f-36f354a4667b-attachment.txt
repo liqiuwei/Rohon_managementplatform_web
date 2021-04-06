@@ -1,0 +1,2 @@
+INFO     test_logs:test_d4_ReportQuery.py:150 手工行权的用例通过
+INFO     test_logs:test_d4_ReportQuery.py:24 浏览器关闭

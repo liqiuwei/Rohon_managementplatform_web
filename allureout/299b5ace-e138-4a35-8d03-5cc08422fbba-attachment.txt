@@ -1,0 +1,3 @@
+INFO     test_logs:test_a4_Riskcontrolaccount.py:38 开始测试添加风控账户失败得用例
+INFO     test_logs:test_a4_Riskcontrolaccount.py:45 预期结果:密码不能含有"+"特殊字符，实际结果:密码不能含有"+"特殊字符
+INFO     test_logs:test_a4_Riskcontrolaccount.py:47 第8条失败测试用例通过

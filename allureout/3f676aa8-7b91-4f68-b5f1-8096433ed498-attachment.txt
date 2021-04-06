@@ -1,0 +1,1 @@
+INFO     test_logs:test_d6_template.py:103 手续费优惠规则模板的用例通过

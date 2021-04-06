@@ -1,0 +1,2 @@
+2021-04-02 15:43:15,255--test_a8_the_customer_account.py--hanghao:97--INFO:开始测试期货合约默认保证金率配置成功用例
+2021-04-02 15:43:22,032--test_a8_the_customer_account.py--hanghao:103--INFO:测试用例通过

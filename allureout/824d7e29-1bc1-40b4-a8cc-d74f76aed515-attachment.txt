@@ -1,0 +1,2 @@
+2021-04-02 15:51:46,617--test_d1_peizhiBD.py--hanghao:128--INFO:MAC白名单绑定的用例通过
+2021-04-02 15:51:48,764--test_d1_peizhiBD.py--hanghao:27--INFO:浏览器关闭

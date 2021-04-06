@@ -1,0 +1,2 @@
+2021-04-02 15:46:34,643--test_b6_productpositions.py--hanghao:16--INFO:打开浏览器
+2021-04-02 15:46:55,667--test_b6_productpositions.py--hanghao:39--INFO:期货品种持仓限制配置的用例通过

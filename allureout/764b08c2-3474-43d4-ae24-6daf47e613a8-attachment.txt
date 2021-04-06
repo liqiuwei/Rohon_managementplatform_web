@@ -1,0 +1,1 @@
+INFO     test_logs:test_d1_peizhiBD.py:112 IP白名单绑定-ip段的用例通过

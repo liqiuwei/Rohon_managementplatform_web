@@ -1,0 +1,2 @@
+2021-04-02 15:56:40,574--test_d6_template.py--hanghao:148--INFO:报单限制模板的用例通过
+2021-04-02 15:56:40,575--test_d6_template.py--hanghao:27--INFO:浏览器关闭

@@ -1,0 +1,81 @@
+[2020-11-25 10:48:29 433 2564] <app> - rh_api_init 20201124:095217
+[2020-11-25 10:49:36 679 1f70] <app> - rh_api_init 20201124:095217
+[2020-11-25 10:49:55 740 403c] <app> - rh_api_init 20201124:095217
+[2020-11-25 10:50:17 637 3fd0] <app> - rh_api_init 20201124:095217
+[2020-11-25 10:52:40 033 5b08] <app> - rh_api_init 20201124:095217
+[2020-11-25 10:54:21 520 523c] <app> - rh_api_init 20201124:095217
+[2020-11-25 10:55:00 205 2398] <app> - rh_api_init 20201124:095217
+[2020-11-25 10:55:03 392 2398] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-25 10:55:03 392 2398] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-25 10:55:03 392 2398] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-25 10:55:03 393 2398] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-25 10:55:03 393 2398] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-25 10:55:03 393 2398] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-25 10:55:03 393 2398] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-25 10:55:03 394 2398] Load RohonHardDriver.dll failed 126
+[2020-11-25 10:55:03 394 2398] Load FemasDLL failed 126
+[2020-11-25 10:55:06 056 2398] <app>[RohonTraderApi] - size=264
+[2020-11-25 10:55:06 056 2398] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-25 10:55:06 056 2398] <app>[    TradeApi] - RegisterSpi [0x01d18f60]
+[2020-11-25 10:55:06 056 2398] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-25 10:55:06 056 2398] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-25 10:55:06 056 2398] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-25 10:55:06 056 2398] <app>[    TradeApi] - Init
+[2020-11-25 10:56:05 009 2398] <app>[    TradeApi] - Release-->
+[2020-11-25 10:56:05 009 2398] <app>[    TradeApi] - Release<--
+[2020-11-25 10:56:11 734 4350] <app> - rh_api_init 20201124:095217
+[2020-11-25 10:56:14 930 4350] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-25 10:56:14 930 4350] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-25 10:56:14 930 4350] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-25 10:56:14 930 4350] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-25 10:56:14 930 4350] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-25 10:56:14 930 4350] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-25 10:56:14 930 4350] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-25 10:56:14 931 4350] Load RohonHardDriver.dll failed 126
+[2020-11-25 10:56:14 931 4350] Load FemasDLL failed 126
+[2020-11-25 10:56:17 493 4350] <app>[RohonTraderApi] - size=264
+[2020-11-25 10:56:17 493 4350] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-25 10:56:17 493 4350] <app>[    TradeApi] - RegisterSpi [0x01d88f68]
+[2020-11-25 10:56:17 493 4350] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-25 10:56:17 493 4350] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-25 10:56:17 493 4350] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-25 10:56:17 493 4350] <app>[    TradeApi] - Init
+[2020-11-25 10:56:42 039 4350] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-25 10:56:42 039 4350] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-25 10:56:42 039 4350] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-25 10:56:42 039 4350] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-25 10:56:42 039 4350] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-25 10:56:42 039 4350] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-25 10:56:42 039 4350] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-25 10:56:42 039 4350] Load RohonHardDriver.dll failed 126
+[2020-11-25 10:56:42 039 4350] Load FemasDLL failed 126
+[2020-11-25 10:56:43 360 4350] <app>[RohonTraderApi] - size=264
+[2020-11-25 10:56:43 360 4350] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-25 10:56:43 360 4350] <app>[    TradeApi] - RegisterSpi [0x044b2e00]
+[2020-11-25 10:56:43 360 4350] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-25 10:56:43 360 4350] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-25 10:56:43 360 4350] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-25 10:56:43 360 4350] <app>[    TradeApi] - Init
+[2020-11-25 10:56:48 367 4350] <app>[    TradeApi] - Release-->
+[2020-11-25 10:56:48 367 4350] <app>[    TradeApi] - Release<--
+[2020-11-25 10:57:00 359 4350] <app>[    TradeApi] - Release-->
+[2020-11-25 10:57:00 359 4350] <app>[    TradeApi] - Release<--
+[2020-11-25 10:59:35 604 4a04] <app> - rh_api_init 20201124:095217
+[2020-11-25 10:59:38 644 4a04] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-25 10:59:38 644 4a04] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-25 10:59:38 644 4a04] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-25 10:59:38 644 4a04] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-25 10:59:38 644 4a04] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-25 10:59:38 644 4a04] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-25 10:59:38 644 4a04] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-25 10:59:38 644 4a04] Load RohonHardDriver.dll failed 126
+[2020-11-25 10:59:38 644 4a04] Load FemasDLL failed 126
+[2020-11-25 10:59:41 040 4a04] <app>[RohonTraderApi] - size=264
+[2020-11-25 10:59:41 040 4a04] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-25 10:59:41 040 4a04] <app>[    TradeApi] - RegisterSpi [0x01d98f58]
+[2020-11-25 10:59:41 040 4a04] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-25 10:59:41 040 4a04] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-25 10:59:41 040 4a04] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-25 10:59:41 040 4a04] <app>[    TradeApi] - Init
+[2020-11-25 10:59:41 468 4a04] <app>[    TradeApi] - Release-->
+[2020-11-25 10:59:41 469 4a04] <app>[    TradeApi] - Release<--

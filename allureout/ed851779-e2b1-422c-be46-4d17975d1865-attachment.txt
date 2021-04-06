@@ -1,0 +1,2 @@
+2021-04-02 15:57:42,128--test_d8_OtherSettings.py--hanghao:47--INFO:交割月最小下单手数的用例通过
+2021-04-02 15:57:44,244--test_d8_OtherSettings.py--hanghao:22--INFO:浏览器关闭

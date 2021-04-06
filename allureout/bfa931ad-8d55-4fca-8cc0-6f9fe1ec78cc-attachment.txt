@@ -1,0 +1,2 @@
+INFO     test_logs:test_a8_the_customer_account.py:163 开始测试出入金配置成功用例
+INFO     test_logs:test_a8_the_customer_account.py:170 测试用例通过

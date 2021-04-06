@@ -1,0 +1,4 @@
+INFO     test_logs:test_a3_increaseproduct.py:56 开始测试新增产品成功用例
+INFO     test_logs:test_a3_increaseproduct.py:67 预期结果:李秋维哉幼憨忏越踔公司，实际结果:李秋维哉幼憨忏越踔公司 (李秋维的测试产品别名)
+INFO     test_logs:test_a3_increaseproduct.py:69 测试用例通过
+INFO     test_logs:test_a3_increaseproduct.py:32 浏览器关闭

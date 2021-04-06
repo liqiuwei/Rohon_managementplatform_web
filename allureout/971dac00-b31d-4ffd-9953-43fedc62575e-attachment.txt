@@ -1,0 +1,2 @@
+2021-04-02 15:53:18,235--test_d3_template.py--hanghao:105--INFO:绑定手续费优惠规则模板的用例通过
+2021-04-02 15:53:20,382--test_d3_template.py--hanghao:27--INFO:浏览器关闭

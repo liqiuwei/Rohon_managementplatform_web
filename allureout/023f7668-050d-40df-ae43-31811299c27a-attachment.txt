@@ -1,0 +1,3 @@
+2021-04-02 15:48:03,861--test_c1_DailyCheckReport.py--hanghao:16--INFO:打开浏览器
+2021-04-02 15:48:19,751--test_c1_DailyCheckReport.py--hanghao:34--INFO:核算报表查询的用例通过
+2021-04-02 15:48:21,854--test_c1_DailyCheckReport.py--hanghao:27--INFO:浏览器关闭

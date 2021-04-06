@@ -1,0 +1,1 @@
+INFO     test_logs:test_d6_template.py:73 期权开仓限制的用例通过

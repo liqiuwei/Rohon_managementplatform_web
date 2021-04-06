@@ -1,0 +1,1 @@
+2021-04-02 15:53:36,174--test_d4_ReportQuery.py--hanghao:71--INFO:管理员账户资金查询的用例通过

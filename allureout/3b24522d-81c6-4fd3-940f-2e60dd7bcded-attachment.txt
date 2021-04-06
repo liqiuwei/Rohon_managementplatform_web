@@ -1,0 +1,5 @@
+2021-04-02 15:44:53,776--test_b2_fundallocator.py--hanghao:20--INFO:打开浏览器
+2021-04-02 15:45:05,538--test_b2_fundallocator.py--hanghao:33--INFO:开始创建资金调拨员成功得用例
+2021-04-02 15:45:10,348--test_b2_fundallocator.py--hanghao:38--INFO:预期结果:387607228，实际结果:387607228
+2021-04-02 15:45:10,348--test_b2_fundallocator.py--hanghao:40--INFO:测试用例通过
+2021-04-02 15:45:12,449--test_b2_fundallocator.py--hanghao:29--INFO:浏览器关闭

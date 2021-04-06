@@ -1,0 +1,2 @@
+INFO     test_logs:test_e2_Futures_allocation.py:17 打开浏览器
+INFO     test_logs:test_e2_Futures_allocation.py:40 期货品种保证金率配置-绝对收取的用例通过

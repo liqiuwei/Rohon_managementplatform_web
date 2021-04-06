@@ -1,0 +1,2 @@
+INFO     test_logs:test_d3_template.py:105 绑定手续费优惠规则模板的用例通过
+INFO     test_logs:test_d3_template.py:27 浏览器关闭

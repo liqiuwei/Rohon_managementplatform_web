@@ -1,0 +1,5 @@
+2021-04-02 15:43:05,447--test_a8_the_customer_account.py--hanghao:64--INFO:账户开户成功的用例
+2021-04-02 15:43:05,449--test_a8_the_customer_account.py--hanghao:68--INFO:李鄙饱鞭
+2021-04-02 15:43:09,660--test_a8_the_customer_account.py--hanghao:72--INFO:原有客户开户创建的操作账户登录账号是13551492538
+2021-04-02 15:43:09,660--test_a8_the_customer_account.py--hanghao:74--INFO:预期结果:期货品种保证金，实际结果:账户[13551492538]期货品种保证金
+2021-04-02 15:43:09,660--test_a8_the_customer_account.py--hanghao:76--INFO:测试用例通过

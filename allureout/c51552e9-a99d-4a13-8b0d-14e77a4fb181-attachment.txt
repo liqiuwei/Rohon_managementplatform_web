@@ -1,0 +1,1 @@
+2021-04-02 15:58:34,025--test_e2_Futures_allocation.py--hanghao:55--INFO:期货品种保证金率配置-相对资金账户绝对值收取的用例通过

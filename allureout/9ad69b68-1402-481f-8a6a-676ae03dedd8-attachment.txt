@@ -1,0 +1,1 @@
+INFO     test_logs:test_d1_peizhiBD.py:79 期货风控方案的用例通过

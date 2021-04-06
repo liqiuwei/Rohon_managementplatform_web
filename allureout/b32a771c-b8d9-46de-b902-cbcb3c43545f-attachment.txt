@@ -1,0 +1,2 @@
+2021-04-02 15:58:06,494--test_e2_Futures_allocation.py--hanghao:17--INFO:打开浏览器
+2021-04-02 15:58:29,763--test_e2_Futures_allocation.py--hanghao:40--INFO:期货品种保证金率配置-绝对收取的用例通过

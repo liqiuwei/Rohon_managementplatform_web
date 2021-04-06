@@ -1,0 +1,2 @@
+2021-04-02 15:43:27,992--test_a8_the_customer_account.py--hanghao:123--INFO:开始测试期货合约默认手续费率配置成功用例
+2021-04-02 15:43:34,772--test_a8_the_customer_account.py--hanghao:130--INFO:测试用例通过

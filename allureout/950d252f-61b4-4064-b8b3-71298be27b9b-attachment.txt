@@ -1,0 +1,3 @@
+INFO     test_logs:test_e6_margin_rate.py:69 开始测试保证金率模版新增成功的用例
+INFO     test_logs:test_e6_margin_rate.py:75 测试保证金率模版新增成功的用例通过
+INFO     test_logs:test_e6_margin_rate.py:30 浏览器关闭

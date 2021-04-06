@@ -1,0 +1,2 @@
+2021-04-02 15:57:07,260--test_d8_OtherSettings.py--hanghao:15--INFO:打开浏览器
+2021-04-02 15:57:25,087--test_d8_OtherSettings.py--hanghao:32--INFO:终端认证配置的用例通过

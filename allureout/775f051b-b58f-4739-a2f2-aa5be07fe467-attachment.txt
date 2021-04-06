@@ -1,0 +1,2 @@
+INFO     test_logs:test_e6_margin_rate.py:51 开始测试品种开仓权限模板新增成功的用例
+INFO     test_logs:test_e6_margin_rate.py:62 测试保证金率模版新增成功的用例通过

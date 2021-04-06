@@ -1,0 +1,3 @@
+2021-04-02 15:48:39,823--test_c3_chanpin.py--hanghao:16--INFO:打开浏览器
+2021-04-02 15:48:55,666--test_c3_chanpin.py--hanghao:34--INFO:绑定的用例通过
+2021-04-02 15:48:57,755--test_c3_chanpin.py--hanghao:27--INFO:浏览器关闭

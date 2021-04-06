@@ -1,0 +1,2 @@
+INFO     test_logs:test_d5_Riskcontrolprogram.py:208 估值文件上传的用例通过
+INFO     test_logs:test_d5_Riskcontrolprogram.py:26 浏览器关闭

@@ -1,0 +1,1 @@
+INFO     test_logs:test_d7_configuration.py:47 权限管理的用例通过

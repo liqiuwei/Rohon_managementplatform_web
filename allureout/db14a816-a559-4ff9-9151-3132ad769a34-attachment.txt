@@ -1,0 +1,6 @@
+2021-04-02 15:59:37,962--test_e5_Varietiesofpermissions.py--hanghao:51--INFO:开始测试品种开仓权限模板新增成功的用例
+2021-04-02 15:59:43,236--seleniunm_packaging.py--hanghao:23--ERROR:你的操作没有进入None页面可能会引发异常'in <string>' requires string as left operand, not NoneType
+2021-04-02 15:59:43,246--seleniunm_packaging.py--hanghao:23--ERROR:你的操作没有进入None页面可能会引发异常'in <string>' requires string as left operand, not NoneType
+2021-04-02 15:59:43,253--seleniunm_packaging.py--hanghao:23--ERROR:你的操作没有进入None页面可能会引发异常'in <string>' requires string as left operand, not NoneType
+2021-04-02 15:59:43,259--test_e5_Varietiesofpermissions.py--hanghao:62--INFO:测试品种开仓权限模板新增失败的用例通过
+2021-04-02 15:59:45,366--test_e5_Varietiesofpermissions.py--hanghao:31--INFO:浏览器关闭

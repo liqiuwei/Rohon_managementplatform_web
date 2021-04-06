@@ -1,0 +1,2 @@
+INFO     test_logs:test_d6_template.py:15 打开浏览器
+INFO     test_logs:test_d6_template.py:40 可交易品种/合约模板配置的用例通过

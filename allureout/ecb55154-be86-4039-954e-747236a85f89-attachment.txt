@@ -1,0 +1,1 @@
+INFO     test_logs:test_d5_Riskcontrolprogram.py:50 风控方案配置的用例通过

@@ -1,0 +1,1 @@
+INFO     test_logs:test_d5_Riskcontrolprogram.py:180 品种交易模式的用例通过

@@ -1,0 +1,2 @@
+INFO     test_logs:test_d8_OtherSettings.py:47 交割月最小下单手数的用例通过
+INFO     test_logs:test_d8_OtherSettings.py:22 浏览器关闭

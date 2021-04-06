@@ -1,0 +1,3 @@
+2021-04-02 15:50:32,196--test_c9_pinzhongTBJY.py--hanghao:16--INFO:打开浏览器
+2021-04-02 15:50:50,222--test_c9_pinzhongTBJY.py--hanghao:40--INFO:期货品种停板交易权限的用例通过
+2021-04-02 15:50:52,330--test_c9_pinzhongTBJY.py--hanghao:27--INFO:浏览器关闭

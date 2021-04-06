@@ -1,0 +1,6 @@
+INFO     test_logs:test_a7_onekeyregister.py:23 打开浏览器
+INFO     test_logs:test_a7_onekeyregister.py:36 测试一键开户开户成功的用例
+INFO     test_logs:test_a7_onekeyregister.py:46 预期结果:13413478722，实际结果:13413478722
+INFO     test_logs:test_a7_onekeyregister.py:48 一键开户创建的账户是13413478722
+INFO     test_logs:test_a7_onekeyregister.py:49 测试用例通过
+INFO     test_logs:test_a7_onekeyregister.py:30 浏览器关闭

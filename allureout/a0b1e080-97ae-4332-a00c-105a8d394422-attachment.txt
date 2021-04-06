@@ -1,0 +1,3 @@
+INFO     test_logs:test_e5_Varietiesofpermissions.py:36 开始测试品种开仓权限模板新增失败的用例
+INFO     test_logs:test_e5_Varietiesofpermissions.py:41 预期结果:模板名称不能包含"<"非法字符，实际结果:模板名称不能包含"<"非法字符
+INFO     test_logs:test_e5_Varietiesofpermissions.py:43 测试品种开仓权限模板新增失败的用例通过

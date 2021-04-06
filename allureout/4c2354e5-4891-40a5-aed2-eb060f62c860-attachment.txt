@@ -1,0 +1,1 @@
+INFO     test_logs:test_b5_productcommission.py:54 期货合约手续费率配置-绝对收取得用例通过

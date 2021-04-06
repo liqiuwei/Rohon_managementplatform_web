@@ -1,0 +1,3 @@
+INFO     test_logs:test_a4_Riskcontrolaccount.py:38 开始测试添加风控账户失败得用例
+INFO     test_logs:test_a4_Riskcontrolaccount.py:45 预期结果:请输入密码，实际结果:请输入密码
+INFO     test_logs:test_a4_Riskcontrolaccount.py:47 第2条失败测试用例通过

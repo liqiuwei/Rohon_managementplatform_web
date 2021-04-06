@@ -1,0 +1,4 @@
+2021-04-02 15:41:49,828--test_a6_newclientregister.py--hanghao:23--INFO:打开浏览器
+2021-04-02 15:42:01,285--test_a6_newclientregister.py--hanghao:36--INFO:开始测试新增账户开户失败用例
+2021-04-02 15:42:02,896--test_a6_newclientregister.py--hanghao:49--INFO:预期结果:开户人姓名不能为空，实际结果:开户人姓名不能为空
+2021-04-02 15:42:02,896--test_a6_newclientregister.py--hanghao:51--INFO:第1条失败测试用例通过

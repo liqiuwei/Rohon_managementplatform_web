@@ -1,0 +1,4 @@
+INFO     test_logs:test_a1_login.py:22 打开浏览器
+INFO     test_logs:test_a1_login.py:33 开始测试登录失败用例
+INFO     test_logs:test_a1_login.py:38 预期结果:用户名密码不能为空，实际结果:用户名密码不能为空
+INFO     test_logs:test_a1_login.py:41 第1条失败测试用例通过

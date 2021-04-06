@@ -1,0 +1,2 @@
+INFO     test_logs:test_d7_configuration.py:15 打开浏览器
+INFO     test_logs:test_d7_configuration.py:33 可交易品种/合约模板配置的用例通过

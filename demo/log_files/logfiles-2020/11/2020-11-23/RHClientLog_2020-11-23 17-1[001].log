@@ -1,0 +1,97 @@
+[2020-11-23 17:03:46 094 3fc8] <app> - rh_api_init 20201123:163222
+[2020-11-23 17:03:48 850 3fc8] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 17:03:48 850 3fc8] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 17:03:48 850 3fc8] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 17:03:48 851 3fc8] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 17:03:48 851 3fc8] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 17:03:48 851 3fc8] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 17:03:48 851 3fc8] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 17:03:48 851 3fc8] Load RohonHardDriver.dll failed 126
+[2020-11-23 17:03:48 851 3fc8] Load FemasDLL failed 126
+[2020-11-23 17:03:51 273 3fc8] <app>[RohonTraderApi] - size=264
+[2020-11-23 17:03:51 273 3fc8] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 17:03:51 273 3fc8] <app>[    TradeApi] - RegisterSpi [0x01608f60]
+[2020-11-23 17:03:51 273 3fc8] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 17:03:51 273 3fc8] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 17:03:51 273 3fc8] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-23 17:03:51 273 3fc8] <app>[    TradeApi] - Init
+[2020-11-23 17:03:51 349 44d0] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 17:03:51 349 44d0] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 17:03:51 349 3fc8] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 17:03:51 349 3fc8] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 17:03:51 349 44d0] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 17:03:51 349 44d0] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 17:03:51 349 44d0] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 17:04:03 344 2b80] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 17:04:03 344 2b80] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 17:04:03 344 2b80] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 17:04:03 344 44d0] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 17:04:03 344 44d0] <app>[   HeartBeat] - Set HeartBeat Timer 0x00050006
+[2020-11-23 17:04:08 330 3fc8] <app>[    TradeApi] - Release-->
+[2020-11-23 17:04:08 330 3fc8] <app>[    TradeApi] - Release<--
+[2020-11-23 17:04:10 650 24d8] <app> - rh_api_init 20201123:163222
+[2020-11-23 17:04:14 180 24d8] <app>[    TradeApi] - [IP:192.168.1.61][MAC:E4-54-E8-E0-B4-DE]
+[2020-11-23 17:04:14 180 24d8] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-BA]
+[2020-11-23 17:04:14 180 24d8] <app>[    TradeApi] - [IP:192.168.19.1][MAC:00-50-56-C0-00-01]
+[2020-11-23 17:04:14 180 24d8] <app>[    TradeApi] - [IP:192.168.91.1][MAC:00-50-56-C0-00-08]
+[2020-11-23 17:04:14 180 24d8] <app>[    TradeApi] - [IP:0.0.0.0][MAC:E8-6F-38-C8-8D-B9]
+[2020-11-23 17:04:14 180 24d8] <app>[    TradeApi] - [IP:0.0.0.0][MAC:1A-6F-38-C8-8D-B9]
+[2020-11-23 17:04:14 180 24d8] <app>[    TradeApi] - [IP:0.0.0.0][MAC:2A-6F-38-C8-8D-B9]
+[2020-11-23 17:04:14 180 24d8] Load RohonHardDriver.dll failed 126
+[2020-11-23 17:04:14 180 24d8] Load FemasDLL failed 126
+[2020-11-23 17:04:16 545 24d8] <app>[RohonTraderApi] - size=264
+[2020-11-23 17:04:16 545 24d8] <app>[ CreateRHApi] - CreateRHTraderApi client version 1.4.2.9
+[2020-11-23 17:04:16 545 24d8] <app>[    TradeApi] - RegisterSpi [0x043f5a28]
+[2020-11-23 17:04:16 545 24d8] <app>[    TradeApi] - SubscribePrivateTopic
+[2020-11-23 17:04:16 545 24d8] <app>[    TradeApi] - SubscribePublicTopic
+[2020-11-23 17:04:16 545 24d8] <app>[    TradeApi] - RegisterFront tcp://192.168.1.50:10001
+[2020-11-23 17:04:16 545 24d8] <app>[    TradeApi] - Init
+[2020-11-23 17:04:16 611 08c8] <app>[  TcpHandler] - OnConnectOk begin
+[2020-11-23 17:04:16 611 08c8] <app>[  TcpHandler] - OnConnectOk end
+[2020-11-23 17:04:16 611 24d8] <app>[    TradeApi] - ReqUserLogin
+[2020-11-23 17:04:16 611 24d8] <app>[    TradeApi] - ReqUserLogin [123456] [192.168.1.61] [E4-54-E8-E0-B4-DE]
+[2020-11-23 17:04:16 611 08c8] <app>[  TcpHandler] - HandleMessage begin
+[2020-11-23 17:04:16 611 08c8] <app>[  TcpHandler] - RspUserLogin
+[2020-11-23 17:04:16 611 08c8] <app>[  TcpHandler] - HandleMessage end
+[2020-11-23 17:04:28 610 06e0] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 17:04:28 610 06e0] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 17:04:28 610 06e0] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 17:04:28 612 08c8] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 17:04:28 612 08c8] <app>[   HeartBeat] - Set HeartBeat Timer 0x00050006
+[2020-11-23 17:04:40 605 06e0] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 17:04:40 605 06e0] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 17:04:40 605 06e0] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 17:04:40 605 08c8] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 17:04:40 605 08c8] <app>[   HeartBeat] - Set HeartBeat Timer 0x00070008
+[2020-11-23 17:04:52 601 06e0] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 17:04:52 601 06e0] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 17:04:52 601 06e0] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 17:04:52 603 08c8] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 17:04:52 603 08c8] <app>[   HeartBeat] - Set HeartBeat Timer 0x0009000a
+[2020-11-23 17:05:04 611 06e0] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 17:05:04 611 06e0] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 17:05:04 611 06e0] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 17:05:04 612 08c8] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 17:05:04 612 08c8] <app>[   HeartBeat] - Set HeartBeat Timer 0x000b000c
+[2020-11-23 17:05:16 605 06e0] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 17:05:16 605 06e0] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 17:05:16 605 06e0] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 17:05:16 605 08c8] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 17:05:16 605 08c8] <app>[   HeartBeat] - Set HeartBeat Timer 0x000d000e
+[2020-11-23 17:05:28 603 06e0] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 17:05:28 603 06e0] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 17:05:28 603 06e0] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 17:05:28 605 08c8] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 17:05:28 605 08c8] <app>[   HeartBeat] - Set HeartBeat Timer 0x000f0010
+[2020-11-23 17:05:40 604 06e0] <app>[   HeartBeat] - OnTimer begin
+[2020-11-23 17:05:40 604 06e0] <app>[   HeartBeat] - Send HeartBeat
+[2020-11-23 17:05:40 604 06e0] <app>[   HeartBeat] - OnTimer end
+[2020-11-23 17:05:40 605 08c8] <app>[  TcpHandler] - receive HeartBeat
+[2020-11-23 17:05:40 605 08c8] <app>[   HeartBeat] - Set HeartBeat Timer 0x00110012
+[2020-11-23 17:05:45 010 24d8] <app>[    TradeApi] - Release-->
+[2020-11-23 17:05:45 010 24d8] <app>[    TradeApi] - Release<--
+[2020-11-23 17:05:52 653 4fc4] <app> - rh_api_init 20201123:163222
+[2020-11-23 17:06:11 143 4798] <app> - rh_api_init 20201123:163222
+[2020-11-23 17:06:44 480 4ff0] <app> - rh_api_init 20201123:163222
+[2020-11-23 17:09:27 182 1134] <app> - rh_api_init 20201123:163222
+[2020-11-23 17:10:14 936 44fc] <app> - rh_api_init 20201123:163222

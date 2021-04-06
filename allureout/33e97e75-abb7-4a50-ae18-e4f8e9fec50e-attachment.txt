@@ -1,0 +1,5 @@
+INFO     test_logs:test_b2_fundallocator.py:20 打开浏览器
+INFO     test_logs:test_b2_fundallocator.py:33 开始创建资金调拨员成功得用例
+INFO     test_logs:test_b2_fundallocator.py:38 预期结果:387607228，实际结果:387607228
+INFO     test_logs:test_b2_fundallocator.py:40 测试用例通过
+INFO     test_logs:test_b2_fundallocator.py:29 浏览器关闭

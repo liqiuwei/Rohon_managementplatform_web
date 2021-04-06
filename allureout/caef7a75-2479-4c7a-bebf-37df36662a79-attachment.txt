@@ -1,0 +1,1 @@
+INFO     test_logs:test_d4_ReportQuery.py:101 管理员账户持仓明细的用例通过

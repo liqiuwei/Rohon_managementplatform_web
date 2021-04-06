@@ -1,0 +1,2 @@
+INFO     test_logs:test_d8_OtherSettings.py:15 打开浏览器
+INFO     test_logs:test_d8_OtherSettings.py:32 终端认证配置的用例通过

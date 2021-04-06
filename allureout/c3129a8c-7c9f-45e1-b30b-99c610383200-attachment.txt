@@ -1,0 +1,2 @@
+INFO     test_logs:test_d7_configuration.py:60 权限管理的用例通过
+INFO     test_logs:test_d7_configuration.py:24 浏览器关闭

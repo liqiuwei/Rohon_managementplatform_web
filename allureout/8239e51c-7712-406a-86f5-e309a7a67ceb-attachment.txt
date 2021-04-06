@@ -1,0 +1,2 @@
+INFO     test_logs:test_a8_the_customer_account.py:137 开始测试期货品种持仓限制配置成功用例
+INFO     test_logs:test_a8_the_customer_account.py:143 测试用例通过

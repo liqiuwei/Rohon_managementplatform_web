@@ -1,0 +1,4 @@
+2021-04-02 15:41:38,050--test_a5_addfundaccount.py--hanghao:61--INFO:开始测试新增资金账户成功的用例
+2021-04-02 15:41:47,726--test_a5_addfundaccount.py--hanghao:74--INFO:预期结果:13145682342，实际结果:13145682342
+2021-04-02 15:41:47,726--test_a5_addfundaccount.py--hanghao:76--INFO:第1条成功测试用例通过
+2021-04-02 15:41:49,825--test_a5_addfundaccount.py--hanghao:31--INFO:浏览器关闭

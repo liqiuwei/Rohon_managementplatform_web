@@ -1,0 +1,2 @@
+2021-04-02 16:00:02,252--test_e6_margin_rate.py--hanghao:51--INFO:开始测试品种开仓权限模板新增成功的用例
+2021-04-02 16:00:06,984--test_e6_margin_rate.py--hanghao:62--INFO:测试保证金率模版新增成功的用例通过

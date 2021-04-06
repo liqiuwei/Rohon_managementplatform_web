@@ -1,0 +1,1 @@
+INFO     test_logs:test_d6_template.py:88 手续费模板列表的用例通过

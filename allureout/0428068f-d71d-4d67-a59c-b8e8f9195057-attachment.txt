@@ -1,0 +1,1 @@
+INFO     test_logs:test_d3_template.py:49 绑定期货品种持仓配置模板的用例通过

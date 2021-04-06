@@ -1,0 +1,3 @@
+2021-04-02 15:49:19,903--test_c5_bangdingBZJ.py--hanghao:15--INFO:打开浏览器
+2021-04-02 15:49:35,688--test_c5_bangdingBZJ.py--hanghao:33--INFO:绑定期货保证金率模板的用例通过
+2021-04-02 15:49:37,782--test_c5_bangdingBZJ.py--hanghao:26--INFO:浏览器关闭

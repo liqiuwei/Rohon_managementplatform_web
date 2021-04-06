@@ -1,0 +1,2 @@
+2021-04-02 15:52:34,733--test_d3_template.py--hanghao:16--INFO:打开浏览器
+2021-04-02 15:52:50,428--test_d3_template.py--hanghao:35--INFO:行权记录的用例通过

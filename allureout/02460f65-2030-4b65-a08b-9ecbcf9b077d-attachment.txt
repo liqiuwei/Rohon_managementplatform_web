@@ -1,0 +1,2 @@
+INFO     test_logs:test_a8_the_customer_account.py:110 测试品种默认手续费率配置成功的用例
+INFO     test_logs:test_a8_the_customer_account.py:116 测试用例通过

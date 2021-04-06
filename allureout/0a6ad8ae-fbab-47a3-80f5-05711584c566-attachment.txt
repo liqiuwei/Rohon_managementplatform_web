@@ -1,0 +1,4 @@
+INFO     test_logs:test_a5_addfundaccount.py:61 开始测试新增资金账户成功的用例
+INFO     test_logs:test_a5_addfundaccount.py:74 预期结果:13145682342，实际结果:13145682342
+INFO     test_logs:test_a5_addfundaccount.py:76 第1条成功测试用例通过
+INFO     test_logs:test_a5_addfundaccount.py:31 浏览器关闭

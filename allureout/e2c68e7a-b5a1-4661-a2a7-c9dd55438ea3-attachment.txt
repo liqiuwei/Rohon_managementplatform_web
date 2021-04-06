@@ -1,0 +1,1 @@
+INFO     test_logs:test_d4_ReportQuery.py:61 报单查询持仓明细的用例通过

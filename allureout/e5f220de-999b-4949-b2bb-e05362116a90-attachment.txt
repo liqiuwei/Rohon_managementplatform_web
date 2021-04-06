@@ -1,0 +1,1 @@
+INFO     test_logs:test_d4_ReportQuery.py:71 管理员账户资金查询的用例通过

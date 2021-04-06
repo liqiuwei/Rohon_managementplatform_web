@@ -1,0 +1,3 @@
+2021-04-02 15:48:21,888--test_c2_LoginLogQuery.py--hanghao:16--INFO:打开浏览器
+2021-04-02 15:48:37,680--test_c2_LoginLogQuery.py--hanghao:34--INFO:登录日志查询的用例通过
+2021-04-02 15:48:39,785--test_c2_LoginLogQuery.py--hanghao:27--INFO:浏览器关闭

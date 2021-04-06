@@ -1,0 +1,2 @@
+2021-04-02 15:43:22,035--test_a8_the_customer_account.py--hanghao:110--INFO:测试品种默认手续费率配置成功的用例
+2021-04-02 15:43:27,989--test_a8_the_customer_account.py--hanghao:116--INFO:测试用例通过

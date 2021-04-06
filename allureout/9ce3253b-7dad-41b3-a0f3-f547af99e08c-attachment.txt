@@ -1,0 +1,4 @@
+2021-04-02 15:40:45,056--test_a3_increaseproduct.py--hanghao:56--INFO:开始测试新增产品成功用例
+2021-04-02 15:40:48,611--test_a3_increaseproduct.py--hanghao:67--INFO:预期结果:李秋维哉幼憨忏越踔公司，实际结果:李秋维哉幼憨忏越踔公司 (李秋维的测试产品别名)
+2021-04-02 15:40:48,611--test_a3_increaseproduct.py--hanghao:69--INFO:测试用例通过
+2021-04-02 15:40:50,720--test_a3_increaseproduct.py--hanghao:32--INFO:浏览器关闭

@@ -1,0 +1,2 @@
+2021-04-02 15:56:40,578--test_d7_configuration.py--hanghao:15--INFO:打开浏览器
+2021-04-02 15:56:53,526--test_d7_configuration.py--hanghao:33--INFO:可交易品种/合约模板配置的用例通过

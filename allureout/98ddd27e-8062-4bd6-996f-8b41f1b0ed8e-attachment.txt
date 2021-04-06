@@ -1,0 +1,4 @@
+2021-04-02 15:59:45,368--test_e6_margin_rate.py--hanghao:21--INFO:打开浏览器
+2021-04-02 15:59:57,572--test_e6_margin_rate.py--hanghao:35--INFO:开始测试品种开仓权限模板新增失败的用例
+2021-04-02 15:59:58,769--test_e6_margin_rate.py--hanghao:41--INFO:预期结果:模板名称不能为空！，实际结果:模板名称不能为空！
+2021-04-02 15:59:58,769--test_e6_margin_rate.py--hanghao:43--INFO:测试品种开仓权限模板新增失败的用例通过

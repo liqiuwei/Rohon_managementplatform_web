@@ -1,0 +1,2 @@
+INFO     test_logs:test_a8_the_customer_account.py:123 开始测试期货合约默认手续费率配置成功用例
+INFO     test_logs:test_a8_the_customer_account.py:130 测试用例通过

@@ -1,0 +1,1 @@
+INFO     test_logs:test_d6_template.py:57 可交易品种/合约模板配置的用例通过

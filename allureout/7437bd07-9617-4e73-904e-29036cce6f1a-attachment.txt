@@ -1,0 +1,2 @@
+2021-04-02 15:50:52,363--test_d1_peizhiBD.py--hanghao:16--INFO:打开浏览器
+2021-04-02 15:51:11,316--test_d1_peizhiBD.py--hanghao:43--INFO:配置期货报单限制的用例通过

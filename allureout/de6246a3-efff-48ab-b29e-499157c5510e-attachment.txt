@@ -1,0 +1,1 @@
+INFO     test_logs:test_d4_ReportQuery.py:138 资金划拨的用例通过

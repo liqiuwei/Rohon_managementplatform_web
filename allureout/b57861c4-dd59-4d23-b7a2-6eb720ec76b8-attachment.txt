@@ -1,0 +1,1 @@
+INFO     test_logs:test_e2_Futures_allocation.py:55 期货品种保证金率配置-相对资金账户绝对值收取的用例通过

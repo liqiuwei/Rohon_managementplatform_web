@@ -1,0 +1,2 @@
+INFO     test_logs:test_d1_peizhiBD.py:16 打开浏览器
+INFO     test_logs:test_d1_peizhiBD.py:43 配置期货报单限制的用例通过

@@ -1,0 +1,1 @@
+2021-04-02 15:55:30,294--test_d5_Riskcontrolprogram.py--hanghao:180--INFO:品种交易模式的用例通过

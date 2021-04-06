@@ -1,0 +1,1 @@
+2021-04-02 15:45:56,436--test_b4__instrumentcommission.py--hanghao:54--INFO:期货合约手续费率配置-绝对收取得用例通过

@@ -1,0 +1,3 @@
+2021-04-02 15:42:07,140--test_a6_newclientregister.py--hanghao:36--INFO:开始测试新增账户开户失败用例
+2021-04-02 15:42:09,580--test_a6_newclientregister.py--hanghao:49--INFO:预期结果:输入的证件号号码不合法！，实际结果:输入的证件号号码不合法！
+2021-04-02 15:42:09,580--test_a6_newclientregister.py--hanghao:51--INFO:第5条失败测试用例通过

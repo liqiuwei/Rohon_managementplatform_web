@@ -1,0 +1,1 @@
+INFO     test_logs:test_d3_template.py:63 绑定期货报单限制模板的用例通过

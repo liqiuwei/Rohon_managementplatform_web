@@ -1,0 +1,3 @@
+INFO     test_logs:test_a9_modify_account.py:21 打开浏览器
+INFO     test_logs:test_a9_modify_account.py:76 修改账户的测试用例通过
+INFO     test_logs:test_a9_modify_account.py:30 浏览器关闭

@@ -1,0 +1,2 @@
+INFO     test_logs:test_d4_ReportQuery.py:15 打开浏览器
+INFO     test_logs:test_d4_ReportQuery.py:31 报单查询资金的用例通过

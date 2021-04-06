@@ -1,0 +1,2 @@
+2021-04-02 15:43:45,132--test_a8_the_customer_account.py--hanghao:163--INFO:开始测试出入金配置成功用例
+2021-04-02 15:43:55,945--test_a8_the_customer_account.py--hanghao:170--INFO:测试用例通过

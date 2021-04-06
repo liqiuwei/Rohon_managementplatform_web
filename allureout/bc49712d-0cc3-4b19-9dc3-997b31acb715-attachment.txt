@@ -1,0 +1,3 @@
+INFO     test_logs:test_a6_newclientregister.py:36 开始测试新增账户开户失败用例
+INFO     test_logs:test_a6_newclientregister.py:49 预期结果:客户名称至少2个字符,最多13个字符，实际结果:客户名称至少2个字符,最多13个字符
+INFO     test_logs:test_a6_newclientregister.py:51 第4条失败测试用例通过

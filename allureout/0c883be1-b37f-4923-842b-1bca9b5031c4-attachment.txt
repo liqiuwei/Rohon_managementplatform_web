@@ -1,0 +1,2 @@
+INFO     test_logs:test_a8_the_customer_account.py:150 开始测试可交易品种/合约配置成功用例
+INFO     test_logs:test_a8_the_customer_account.py:156 测试用例通过

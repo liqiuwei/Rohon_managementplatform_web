@@ -1,0 +1,2 @@
+2021-04-02 15:44:27,938--test_b1_Capital_allocation.py--hanghao:19--INFO:打开浏览器
+2021-04-02 15:44:47,789--test_b1_Capital_allocation.py--hanghao:42--INFO:出入金转入的用例用例通过

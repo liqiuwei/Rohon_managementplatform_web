@@ -1,0 +1,2 @@
+INFO     test_logs:test_b1_Capital_allocation.py:19 打开浏览器
+INFO     test_logs:test_b1_Capital_allocation.py:42 出入金转入的用例用例通过
