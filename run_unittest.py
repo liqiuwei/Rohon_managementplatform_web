@@ -4,7 +4,6 @@ from libs.HTMLTestRunnerNew import HTMLTestRunner
 from config import config
 from datetime import datetime
 
-
 # 初始化加载器
 loader = unittest.TestLoader()
 # 收集所有用例
@@ -20,8 +19,6 @@ reports_path = os.path.join(config.REPORTS_PATH, reports_filename)
 with open(reports_path, 'wb') as f:
     runner = HTMLTestRunner(f, title=title, description='融航商品期权资管平台web自动化测试报告', tester='李秋维')
     runner.run(test_suit)
-
-22222222
 
 ##################################循环执行脚本#####################################
 # from middleware.heandler import Hadnler
