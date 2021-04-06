@@ -1,5 +1,0 @@
-Control Identifiers:
-
-Static - '用户名或密码不能为空'    (L918, T498, R1030, B516)
-['用户名或密码不能为空Static', 'Static', '用户名或密码不能为空']
-child_window(title="用户名或密码不能为空", auto_id="65535", control_type="Text")

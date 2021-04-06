@@ -1,5 +1,0 @@
-如果支持透视透视监管（生产环境）：使用Fut_CTPSE中的WinDataCollect.dll RohonMD.dll 和 thostmduserapi_se.dll 替换
-如果支持透视透视监管（测试环境）：使用Fut_CTPSETest中的WinDataCollect.dll RohonMD.dll 和 thostmduserapi_se.dll 替换
-如果是恒生UFX穿透式：支持恒生穿透式dll替换文件夹 替换
-如果是飞马穿透式：支持恒生非马穿透式dll替换文件夹  替换
-金仕达和飞马的dll  都放在根目录下 和exe同级

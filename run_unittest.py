@@ -20,6 +20,8 @@ with open(reports_path, 'wb') as f:
     runner = HTMLTestRunner(f, title=title, description='融航商品期权资管平台web自动化测试报告', tester='李秋维')
     runner.run(test_suit)
 
+#练习项目
+
 ##################################循环执行脚本#####################################
 # from middleware.heandler import Hadnler
 # logging = Hadnler.logger
