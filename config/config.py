@@ -15,6 +15,7 @@ DATA_PATH = os.path.join(CONFIG_PATH, 'data')
 yaml_file = os.path.join(CONFIG_PATH, 'config')
 yaml_file = os.path.join(yaml_file, 'config.yaml')
 
+
 # 获取到log理解路径
 LOGS = os.path.join(CONFIG_PATH, 'logs')
 

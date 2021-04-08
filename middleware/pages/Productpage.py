@@ -88,7 +88,7 @@ class GroupMenu(BasePage):
 
     def click_myFile(self):
         """点击点击文件上传"""
-        self.find_element(self.myFile_element).send_keys(r'C:\Users\38616\Desktop\不常用工具\估值文件上传.xlsx')
+        self.find_element(self.myFile_element).send_keys(r'C:\估值文件上传.xlsx')
         return self
 
     def click_guzhishangchuan(self):

@@ -71,7 +71,7 @@ class SendMail2:
         self.mail_pass = mail_pass  # 口令
         self.sender = sender  # 发件人
         self.message = MIMEMultipart()
-        self.receivers = ['386160165@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
+        self.receivers = ['liqw@rohon.net']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
         self.DATA_PATH1 = os.path.join(DATA_PATH, self.file_name())
 
     def read_report(self):
@@ -110,4 +110,4 @@ class SendMail2:
             print("Error: 无法发送邮件")
 
 
-SendMail2().send_mail()
+# SendMail2().send_mail()

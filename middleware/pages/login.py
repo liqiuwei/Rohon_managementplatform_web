@@ -21,7 +21,7 @@ class LoginPage(BasePage):
     # 定位隐藏标签
     conceal_error_message = 'xpath', "//div[@class='layui-layer-content']"
     # 登录之后的确定按钮
-    confirm_element = (('xpath', "//input[@class='btn1_mouseout']"))
+    confirm_element = ('xpath', "//input[@class='btn1_mouseout']")
     # 定位输入验证码输入框
     valicode_element = ("xpath", "//input[@id='valicode']")
     # 定位到验证码
@@ -37,7 +37,6 @@ class LoginPage(BasePage):
 
     def login_error(self, username, password):
         """登录行为"""
-        # 输入用户名和密码
         self.enter_username(username)
         self.enter_password(password)
         result = self.Identification_verification_code(self.verification_code_element)
@@ -47,7 +46,6 @@ class LoginPage(BasePage):
 
     def login_success(self, username, password):
         """登录行为"""
-        # 输入用户名和密码
         self.enter_username(username)
         self.enter_password(password)
         result = self.Identification_verification_code(self.verification_code_element)

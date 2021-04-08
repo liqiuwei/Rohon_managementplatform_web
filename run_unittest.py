@@ -1,9 +1,13 @@
 import os
 import unittest
+from middleware.heandler import Hadnler
+from common.sendmail_packaging import SendMail2
 from libs.HTMLTestRunnerNew import HTMLTestRunner
 from config import config
 from datetime import datetime
 
+
+logging = Hadnler.logger
 # 初始化加载器
 loader = unittest.TestLoader()
 # 收集所有用例
@@ -20,7 +24,20 @@ with open(reports_path, 'wb') as f:
     runner = HTMLTestRunner(f, title=title, description='融航商品期权资管平台web自动化测试报告', tester='李秋维')
     runner.run(test_suit)
 
-#练习项目
+
+
+logging.info('开始发送邮件')
+SendMail2().send_mail()
+logging.info('邮件发送完成')
+
+
+
+
+
+
+
+
+
 
 ##################################循环执行脚本#####################################
 # from middleware.heandler import Hadnler

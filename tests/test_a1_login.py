@@ -1,7 +1,7 @@
 import unittest
 import ddt as ddt
 import pytest
-
+import time
 from middleware.heandler import Hadnler
 from middleware.pages.login import LoginPage
 
@@ -37,11 +37,11 @@ class TestLogin(unittest.TestCase):
         try:
             logging.info('预期结果:{}，实际结果:{}'.format(test_info['expected'], actual))
             self.assertTrue(actual == test_info['expected'])
-
             logging.info('第{}条失败测试用例通过'.format(test_info['case_id']))
         except AssertionError as err:
             logging.error('测试用例不通过')
             raise err
+        time.sleep(1)
 
     @ddt.data(*data_success)
     def test_login_2_succee(self, test_info):

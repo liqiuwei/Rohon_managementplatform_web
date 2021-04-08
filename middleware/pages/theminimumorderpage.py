@@ -78,7 +78,8 @@ class TheMinimumOrder(BasePage):
     def pagebar_txt(self):
         """获取当前的总条数"""
         el = self.find_element(self.pagebar_txt_element).text
-        res = re.search(r"\d.", el)
+        res = re.search(r"\d+", el)
+        print(res)
         data = ceil(int(res.group())/10)
         return data
 

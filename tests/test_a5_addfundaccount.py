@@ -21,6 +21,10 @@ class TestNewlyCompany(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         logging.info('打开浏览器')
+        cls.digits = Hadnler.digits
+        cls.establish_company = Hadnler.establish_company
+        # cls.digits = "0329FK1"
+        # cls.establish_company = "李秋维碘谌堆乒途刻公司"
         cls.driver = Hadnler().login()
         cls.admin_page = IndexPage(cls.driver)
         cls.admin_page.click_capital_account_allocation().new_capital_account().select_qihuo()
@@ -38,13 +42,13 @@ class TestNewlyCompany(unittest.TestCase):
         if test_info['type'] == 1:
             actual = addfundaccount.import_name(eval(test_info['data'])['name']). \
                 import_password(eval(test_info['data'])['password']). \
-                select_company().select_product(Hadnler.establish_company).import_account(
-                eval(test_info['data'])['account']).click_confirm().get_result22()
+                select_product(self.establish_company).import_account(
+                eval(test_info['data'])['account']).select_company().click_confirm().get_result22()
             addfundaccount.click_abnormal_confirm().empty_message_input()
         else:
             actual = addfundaccount.import_name(eval(test_info['data'])['name']). \
                 import_password(eval(test_info['data'])['password']). \
-                select_company().select_product(Hadnler.establish_company).import_account(
+                select_company().select_product(self.establish_company).import_account(
                 eval(test_info['data'])['account']).click_confirm().get_result()
             addfundaccount.click_window_confirm().empty_message_input()
         try:
@@ -68,7 +72,7 @@ class TestNewlyCompany(unittest.TestCase):
             select_qihuo().import_name(eval(test_info['data'])['name']).import_account(
             eval(data)['account']). \
             import_password(eval(test_info['data'])['password']). \
-            select_company().select_product(Hadnler.establish_company).select_pneumatic(Hadnler.digits).click_confirm(). \
+            select_company().select_product(self.establish_company).select_pneumatic(self.digits).click_confirm(). \
             input_capital(eval(data)['account']).click_search().get_company_name(eval(data)['account'])
         try:
             logging.info('预期结果:{}，实际结果:{}'.format(expected, actual))

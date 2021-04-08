@@ -87,6 +87,6 @@ class EconomicsIncreased(BasePage):
         return self
 
     def get_company_name(self, name):
-        # 获取到新增成功的公司名称文本
+        """获取到新增成功的公司名称文本"""
         el = self.find_element(('xpath', "//td[@value='{}']".format(name)))
         return el.text

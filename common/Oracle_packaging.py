@@ -52,6 +52,6 @@ class OracleHandler():
 # select * from t_previousriskctrl t 风控账户管理
 # select * from T_BrokenAddr 资金账户管理
 # 成交价
-# data = OracleHandler().query2("select * from t_tradedetail t")
+# data = OracleHandler().query2("select * from t_group t")
 # print(data)
 # OracleHandler().close()

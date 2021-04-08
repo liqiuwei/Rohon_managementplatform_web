@@ -75,7 +75,6 @@ class AddFundAccount(BasePage):
 
     def select_product(self, product):
         """选择产品"""
-        # 定位到选择产品按钮
         product_element = ('xpath', "//img[@id='{}']".format(product))
         self.click(product_element)
         return self

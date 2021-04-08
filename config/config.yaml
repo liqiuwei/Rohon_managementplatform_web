@@ -1,19 +1,30 @@
-log:
-  name: test_logs
-  file: test_logs.txt
-  root_logger: root_logger
-  stream_handler: stream_handler
-  staream_level: INFO
-
-excel:
-  file: web_login_cases.xlsx
-
 # 设置合约的默认保证金率和手续费率的合约ID
-#contract: 'IC2012'
 contract: 'AP103'
 # 创建资金账户选择的经济公司
 Economics: '模拟'
+# 数据库
+#oracledb:
+#  host: "192.168.1.50"
+#  user: 'rhserver_FAMS1'
+#  password: 'rhserver_FAMS1'
+# URL
+host: 'http://192.168.1.146:8080/2.0.61.251/'
+path: 'user_DoWebLogin.action'
 
+# 李秋维得数据库
+oracledb:
+  host: "192.168.1.50"
+  user: 'rhserver_WAMS6'
+  password: 'rhserver_WAMS6'
+
+# 隐性等待全局时间
+selenium:
+  time: 20
+
+# Cookie
+Cookie: 'JSESSIONID=29C8D32AAA8E6052D55993700E977FC1'
+# 快速创建账户的
+host2: 'http://192.168.1.37:10005/2.0.61.244/'
 
 # 交易客户端的登录账号
 operation_account: '88888888'
@@ -27,29 +38,14 @@ db:
   password: '123456'
   charset: 'utf8'
 
-# 李秋维得数据库
-oracledb:
-  host: "192.168.1.50"
-  user: 'rhserver_WAMS6'
-  password: 'rhserver_WAMS6'
 
-# 别人的数据库
-#oracledb:
-#  host: "192.168.1.50"
-#  user: 'rhserver_FAMS1'
-#  password: 'rhserver_FAMS1'
+# 不需要改动的配置项
+log:
+  name: test_logs
+  file: test_logs.txt
+  root_logger: root_logger
+  stream_handler: stream_handler
+  staream_level: INFO
 
-# 隐性等待全局时间
-selenium:
-  time: 15
-
-host: 'http://192.168.1.146:8080/2.0.61.251/'
-path: 'user_DoWebLogin.action'
-
-#host: 'http://192.168.1.215:8080/2.0.61.260AMS4/'
-#path: 'user_DoWebLogin.action'
-
-# Cookie
-Cookie: 'JSESSIONID=29C8D32AAA8E6052D55993700E977FC1'
-# 快速创建账户的
-host2: 'http://192.168.1.37:10005/2.0.61.244/'
+excel:
+  file: web_login_cases.xlsx

@@ -6,6 +6,7 @@ from common.yaml_packaging import read_yaml
 
 # 读取yaml配置文件
 logger_config = read_yaml()
+
 # 根据key获取到字典对应的配置
 log_config = logger_config['log']
 

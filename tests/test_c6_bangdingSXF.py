@@ -14,8 +14,8 @@ class TestBangdingSXF(unittest.TestCase):
     def setUpClass(cls) -> None:
         cls.db = OracleHandlerMid()
         logging.info('打开浏览器')
-        # cls.data = Hadnler.one__key_phone
-        cls.data = '16600281508'
+        cls.data = Hadnler.one__key_phone
+        # cls.data = '16600281508'
         cls.driver = Hadnler().login()
         cls.accountopening = IndexPage(cls.driver).operating_account_management2().input_account(
             cls.data).click_search(). \
