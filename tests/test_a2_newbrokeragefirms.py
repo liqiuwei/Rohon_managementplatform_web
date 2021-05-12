@@ -31,9 +31,6 @@ class TestNewlyCompany(unittest.TestCase):
         cls.driver.quit()
         logging.info('浏览器关闭')
 
-    def setUp(self) -> None:
-        pass
-
     @ddt.data(*data_error)
     def test_company_1_error(self, test_info):
         """新增经济公司失败的用例"""

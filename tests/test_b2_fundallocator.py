@@ -31,7 +31,7 @@ class TestAuditPayment(unittest.TestCase):
     def test_audit_payment_1_succee(self):
         """创建资金调拨员成功得用例"""
         logging.info('开始创建资金调拨员成功得用例')
-        actual = self.NewAdministrator.input_name(Hadnler.login_account).input_pwd('0').click_allot()\
+        actual = self.NewAdministrator.input_name(Hadnler.login_account).input_pwd('李秋维的资金账户').click_allot()\
             .click_Check_the_account().select_operating_account(self.data).click_queding().\
             click_winqueding().input_account(Hadnler.login_account).click_search().get_results(Hadnler.login_account)
         try:

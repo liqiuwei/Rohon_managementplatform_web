@@ -1,3 +1,4 @@
+import time
 import unittest
 import ddt as ddt
 from middleware.heandler import Hadnler
@@ -62,7 +63,7 @@ class TestTemplate(unittest.TestCase):
             .researchString2().click_operation().click_qiquankaichang().click_macipxinjian().product_CF()\
             .variety_configuration_queding2().get_actual()
         template.window_affirm4().click_quxiao().researchString3().click_quanxuan().positionschecks().window_affirm2()
-
+        time.sleep(2)
         try:
             self.assertTrue(data == '操作成功')
             logging.info('期权开仓限制的用例通过')
@@ -77,7 +78,7 @@ class TestTemplate(unittest.TestCase):
         data = CommisionTempManager.click_CommisionTempManager().variety_earnest_newly2().rohon_acinte_name2().\
             variety_configuration_queding().researchString3().get_jieguo()
         CommisionTempManager.click_quanxuan().positionschecks().window_affirm2()
-
+        time.sleep(2)
         try:
             self.assertTrue(data == '测试模板名称')
             logging.info('手续费模板列表的用例通过')

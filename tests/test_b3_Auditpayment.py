@@ -17,7 +17,7 @@ class TestAuditPayment(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         logging.info('打开浏览器')
-        cls.driver = Hadnler().login(Hadnler.login_account, '0')
+        cls.driver = Hadnler().login(Hadnler.login_account, '李秋维的资金账户')
         cls.bank_treasurer_login = IndexPage(cls.driver)
 
     @classmethod

@@ -12,7 +12,6 @@ data_success = data.read_data('login_success')
 logging.info('读取excel')
 
 
-
 @ddt.ddt
 class TestLogin(unittest.TestCase):
     """登录测试用例"""

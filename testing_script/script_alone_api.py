@@ -2,7 +2,7 @@
 import time
 
 import requests
-from middleware.heandler import Hadnler, OracleHandlerMid, OracleHandlerMid2
+from middleware.heandler import Hadnler, OracleHandlerMid
 
 logging = Hadnler.logger
 # 输入cookie
@@ -201,7 +201,7 @@ headers = {"Cookie": "{}".format(Hadnler.yaml['Cookie'])}
 # register_capital_account()
 
 
-e = 100
+e = 10
 def establish_account(e=e):
     """创建操作账户"""
     # info = register_capital_account()
@@ -210,13 +210,13 @@ def establish_account(e=e):
         setattr(Hadnler, 'operation_account', Hadnler().mobile)
         url = Hadnler.yaml['host2'] + "account_OneKeyAccountInsert.action"
         data = {"custome.rohon_cus_credentials_type": "身份证",  # 证件类型
-                "custome.rohon_cus_customename": "成警警",  # 开户人姓名
-                "riskctrl": "{}".format('dlzh'),  # 选择的风控账户
+                "custome.rohon_cus_customename": "冯震宇",  # 开户人姓名
+                "riskctrl": "{}".format('fk1'),  # 选择的风控账户
                 "custome.rohon_cus_idcard": "888888888888888888",  # 证件号码
                 "taccount.loginaccount": "{}".format(e),  # 操作账号
                 "taccount.useorderfee": "2",
-                "taccount.password": "1",  # 操作账号的密码
-                "groups": "{}".format('1019'),  # 选择产品
+                "taccount.password": "0",  # 操作账号的密码
+                "groups": "{}".format('1'),  # 选择产品
                 "taccount.totalposcost": "100000000",
                 "taccount.totalpositions": "100000",
                 "taccount.forceclose": "-1",
@@ -230,7 +230,7 @@ def establish_account(e=e):
                 "instrument": "-1",
                 "commission": "-1",
                 "taccount.daymaxlossnotice": "-1",
-                "margin": "-1",
+                "margin": "1",#选择的保证金模板
                 "taccount.supportinebiglegmargin": "1",
                 "taccount.supportcffexbiglegmargin": "1",
                 "taccount.supportshfebiglegmargin": "1",
@@ -250,7 +250,7 @@ def establish_account(e=e):
                 "taccount.closeday_forceclose": "0",
                 "taccount.closeonly": "0",
                 "amount": "0",
-                "taccount.marginsetting": "0",
+                "taccount.marginsetting": "1",#保证金配置  0跟随全局  1自定义
                 "taccount.summarylossforceratio": "0",
                 "taccountorderfrequency.closemark": "0",
                 "taccount.marginratio": "0",
@@ -270,10 +270,10 @@ def establish_account(e=e):
                 }
         e += 1
         data = requests.request('post', url=url, data=data, headers=headers).text
+        print(data)
         print('当前创建得是{}'.format(e))
         if e == 600:
             break
-
 
 
 establish_account()

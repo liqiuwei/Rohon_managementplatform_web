@@ -1,7 +1,6 @@
 import unittest
 import ddt as ddt
 import pytest
-
 from middleware.heandler import Hadnler
 from middleware.pages.addfundaccount import AddFundAccount
 from middleware.pages.homepage import IndexPage
@@ -11,7 +10,6 @@ data = Hadnler().excel('web_New_capital_account_cases.xlsx')
 data_error = data.read_data('error')
 data_success = data.read_data('success')
 logging.info('读取excel')
-
 
 
 @ddt.ddt

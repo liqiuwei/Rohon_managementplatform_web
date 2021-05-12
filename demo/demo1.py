@@ -1,51 +1,42 @@
-# import jsonpath
+import cx_Oracle
+# class ManagementPlatform():
 #
-# data = {
-#     "code": 0,
-#     "msg": "请求成功",
-#     "data": {
-#         "total": 2,
-#         "union_code": "0000106698140",
-#         "details": [
-#             {
-#                 "isPoint": 1.0,
-#                 "tradeNo": "test_tradeNo_0000",
-#                 "remain_points": 1000,
-#                 "sourceCodeRemark": "天猫: 消费积分",
-#                 "orderId": "test_tradeNo_0000",
-#                 "pointTypeName": "消费积分",
-#                 "pointType": "CBP",
-#                 "points": 1000,
-#                 "sourceCode": "天猫",
-#                 "createdDate": "20200909",
-#                 "ID": "f0384d18577b467980041ff41864991d",
-#                 "expirationDate": "20211231",
-#                 "createDateTime": "2020-09-09 18:51:55",
-#                 "remark": "null"
-#             },
-#             {
-#                 "isPoint": 1.0,
-#                 "remain_points": 1000,
-#                 "sourceCodeRemark": "积分商城兑换-虚拟物品: 手工调整增积分",
-#                 "orderId": "000000000",
-#                 "pointTypeName": "手工调整增积分",
-#                 "remark": "积分变更接口",
-#                 "pointType": "ABP",
-#                 "points": 1000,
-#                 "sourceCode": "积分商城兑换-虚拟物品",
-#                 "createdDate": "20200909",
-#                 "ID": "04692f1b44f0440baef884e21fee97bd",
-#                 "expirationDate": "20211231",
-#                 "createDateTime": "2020-09-09 22:13:06"
-#             }
-#         ]
-#     }
-# }
-# print(data['code'])
-# token=jsonpath.jsonpath(data, '$..createDateTime')[0]
-# print(token)
-import re
-
-data = '共1条记录，当前第1/1页，每页10条记录'
-res = re.search(r"\d+", data)
-print(res.group())
+#     def __init__(self):
+#         self.parameter = None
+#
+#     def selective_type(self):
+#         """选择登录还是注册"""
+#         print("提示:【1】登录、【2】注册")
+#         parameter = input('请选择：')
+#         if parameter == '2':
+#             self.register()
+#         elif parameter == '1':
+#             self.login()
+#
+#     @staticmethod
+#     def register():
+#         """注册"""
+#         user = input('请输入账号：')
+#         pwd = input('请输入密码：')
+#         affirm_pwd = input('请再次输入密码：')
+#         if pwd == affirm_pwd:
+#             with open('text.txt', 'a') as f:
+#                 f.write(user)
+#                 f.write(pwd)
+#         else:
+#             print('两次密码不一致')
+#
+#     @staticmethod
+#     def login():
+#         """登录"""
+#         user = input('请输入账号：')
+#         pwd = input('请输入密码：')
+#         with open('text.txt', 'r') as f:
+#             data = f.read()
+#         if user and pwd in data:
+#             print('登录成功')
+#         else:
+#             print('账号或密码错误')
+#
+#
+# ManagementPlatform().selective_type()

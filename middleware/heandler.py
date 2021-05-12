@@ -36,16 +36,6 @@ class OracleHandlerMid(OracleHandler):
         )
 
 
-class OracleHandlerMid2(OracleHandler):
-    """没读取配置文件"""
-    def __init__(self):
-        super().__init__(
-            user='rhserver_WAMS3',
-            password='rhserver_WAMS3',
-            site='192.168.1.50'
-        )
-
-
 class Hadnler:
     """中间层"""
     # 加载配置项
@@ -122,7 +112,7 @@ class Hadnler:
         return driver
 
     # def Launch_browser(self):
-    #     """打开浏览器"""
+    #     """打开Edge浏览器"""
     #     import warnings
     #     warnings.simplefilter("ignore", ResourceWarning)
     #     driver = webdriver.Edge()

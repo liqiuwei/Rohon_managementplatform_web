@@ -125,6 +125,3 @@ from websocket import create_connection
 #                               on_close = on_close)
 #     ws.on_open = on_open
 #     ws.run_forever()
-
-
-

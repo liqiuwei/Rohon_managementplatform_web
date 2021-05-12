@@ -13,7 +13,6 @@ data_success = data.read_data('success')
 logging.info('读取excel')
 
 
-
 @ddt.ddt
 class TestNewProduct(unittest.TestCase):
     """新增产品"""

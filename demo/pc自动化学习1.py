@@ -7,13 +7,13 @@ from pywinauto.timings import wait_until,Timings
 
 # 根据路径打开一个程序
 # app = Application(backend="uia").start(r"RHClient.exe")
-
+# time.sleep(1)
 # 根据进程连接一个已经打开的程序
-# app = Application(backend="win32").connect(process=3344)
-# dlg = app['微冲交易客户端']
+app = Application(backend="uia").connect(process=11488)
+dlg = app['账户: wjm']
 # dlg['Edit'].type_keys('123456')
-# dlg.print_control_identifiers()
-# time.sleep(3)
+dlg.print_control_identifiers()
+time.sleep(1)
 # dlg.child_window(title="下单", class_name="Button").click_input()
 
 # -----登录后的结算提示------
@@ -122,16 +122,16 @@ from pywinauto.timings import wait_until,Timings
 
 # 等待机制timings模块
 # """等待函数返回结果为5的时候继续执行下去"""
-i = 0
-def work():
-    global i
-    i +=1
-    print('当前i等于',i)
-    return i
-
-# 等待10秒钟，每1秒钟执行一遍1函数，一直等到结果等于5
-wait_until(10, 1, work, 5)
-print('等待通过')
+# i = 0
+# def work():
+#     global i
+#     i +=1
+#     print('当前i等于',i)
+#     return i
+#
+# # 等待10秒钟，每1秒钟执行一遍1函数，一直等到结果等于5
+# wait_until(10, 1, work, 5)
+# print('等待通过')
 # 将等待的计时器设置成默认值
 # Timings.Defaults()
 # 将等待时间加倍（慢2倍）

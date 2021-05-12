@@ -1,7 +1,6 @@
 import unittest
 import ddt as ddt
 import pytest
-
 from common.seleniunm_packaging import BasePage
 from middleware.heandler import Hadnler
 from middleware.pages.addriskcontrolaccount import AddRiskControlAccountPage
@@ -12,7 +11,6 @@ data = Hadnler().excel('web_Increaseriskcontrolaccountt_cases.xlsx')
 data_error = data.read_data('error')
 data_success = data.read_data('success')
 logging.info('读取excel')
-
 
 
 @ddt.ddt

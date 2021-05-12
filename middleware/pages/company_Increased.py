@@ -27,48 +27,48 @@ class EconomicsIncreased(BasePage):
     select = ('xpath', "//select[@class='selectoption']")
 
     def enter_company_name(self, company_name):
-        # 输入公司名称
+        """输入公司名称"""
         self.find_element(self.company_name_input).send_keys(company_name)
         return self
 
     def enter_company_code(self, company_code):
-        # 输入公司代码
+        """输入公司代码"""
         self.find_element(self.company_code).send_keys(company_code)
         return self
 
     def import_deal_site(self, enter_address):
-        # 输入交易服务器地址
+        """输入交易服务器地址"""
         self.find_element(self.ransaction_server).send_keys(enter_address)
         return self
 
     def import_market_site(self, enter_address):
-        # 输入行情服务器地址
+        """输入行情服务器地址"""
         self.find_element(self.market_server).send_keys(enter_address)
         return self
 
     def import_result(self, result_code):
-        # 输入校验码
+        """输入校验码"""
         self.find_element(self.result).send_keys(result_code)
         return self
 
     def click_confirm(self):
-        # 点击确定
+        """点击确定"""
         self.find_element(self.confirm_element).click()
         return self
 
     def get_error(self):
-        # 获取到错误文本
+        """获取到错误文本"""
         el = self.wait_element_visible(self.report_error).text
         return el
 
     def click_wicket_confirm(self):
-        # 点击弹框的确认按钮
+        """点击弹框的确认按钮"""
         self.click(self.wicket_confirm)
         # self.find_element(self.wicket_confirm).click()
         return self
 
     def empty_input(self):
-        # 清空新增经纪公司输入框
+        """清空新增经纪公司输入框"""
         self.find_element(self.company_name_input).clear()
         self.find_element(self.company_code).clear()
         self.find_element(self.ransaction_server).clear()
@@ -77,7 +77,7 @@ class EconomicsIncreased(BasePage):
         return self
 
     def select_counte(self):
-        # 选择不同柜台
+        """选择不同柜台"""
         js = "document.getElementById(\"rohon_bkaddr_platformtype\").style.display='block'"
         self.driver.execute_script(js)
         time.sleep(1)
