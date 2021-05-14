@@ -85,11 +85,11 @@ class OracleHandler():
 # select * from t_account t 操作账户
 # 成交价
 
-data = OracleHandler().select("select * from t_account t")
-print(data)
+# data = OracleHandler().select("select * from t_account t")
+# print(data)
 # 更改语句
 # OracleHandler().update("UPDATE t_orderdetail SET STATUSMSG='测试22' where BROKERORDERSEQ='536870913'")
 # 删除 语句
 # OracleHandler().update("delete from t_account t where LOGINACCOUNT='104'")
 #
-OracleHandler().close()
+# OracleHandler().close()

@@ -22,9 +22,9 @@ selenium:
   time: 25
 
 # Cookie
-Cookie: 'JSESSIONID=7FD0B90B9E88009C8A77FE88418761B1'
+Cookie: 'JSESSIONID=2AEECEAB31A23DA76824B48575DA9378'
 # 快速创建账户的
-host2: 'http://192.168.1.146:8080/3.0.0.1/'
+host2: 'http://192.168.1.137:8080/2.0.61.278FAMS1/'
 
 # 交易客户端的登录账号
 operation_account: '88888888'
